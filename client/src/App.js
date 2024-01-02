@@ -1,48 +1,113 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-function App() {
-  const [data, setData] = useState("");
-  const [data1, setData1] = useState("");
-  // fetchData라는 이름을 정의해서 try-catch 문을 사용해 비동기 작업 중
-  // 발생하는 에러를 잡아내고 콘솔에 메세지를 출력하는 것
-  // 간접적으로 호출
-  useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const res = await axios.get("http://localhost:8080/api/hello", {
-          withCredentials: true,
-        });
-        setData1(res.data);
-      } catch (error) {
-        console.log(error);
-      }
-    };
-    fetchData();
-  }, []);
 
-  //(위에랑 비슷한 코드)
-  //useEffect 안에서 직접 비동기 작업을 수행
-  //간단하게 catch문을 사용해서 에러를 처리하고 콘솔에 에러 메세지를 출력
+const App = () => {
+  const [products, setProducts] = useState([]);
+  const [newProduct, setNewProduct] = useState({ name: "", price: 0 });
+  const [isEditingProduct, setIsEditingProduct] = useState(null);
+  const [isEditing, setIsEditing] = useState(false);
+
   useEffect(() => {
     axios
-      .get("http://localhost:8080/api/java", { withCredentials: true })
-      // response = res 는 같은 의미이며, 안에 변수 값은
-      // 정해진 변수값은 없지만 되도록이면 res response라는 이름을 사용하면 좋음
-      .then((res) => {
-        setData(res.data);
+      .get("http://localhost:8081/api/product/item")
+      .then((response) => {
+        setProducts(response.data);
       })
       .catch((error) => {
-        console.log("데이터 없음", error);
+        console.error(":", error);
       });
   }, []);
 
+  const handleAddProduct = () => {
+    axios
+      .post("http://localhost:8081/api/product/add", newProduct)
+      .then((response) => {
+        setProducts((prevProducts) => [...prevProducts, response.data]);
+        setNewProduct({ name: "", price: 0 });
+      })
+      .catch((error) => {
+        console.error("추가 에러:", error);
+      });
+  };
+  const handleDeleteProduct = (id) => {
+    axios
+      .delete(`http://localhost:8081/api/product/delete/${id}`)
+      .then((response) => {
+        setProducts((prevProduct) =>
+          // 현재 목록에서 삭제할 제품을 제외하고 새로운 배열을 생성
+          // 삭제할 제품의 ID와 다른 제품들만 필터로 남겨주겠다 해주는 것
+          prevProduct.filter((product) => product.id !== id)
+        );
+      })
+      .catch((error) => {
+        console.error("error", error);
+      });
+  };
+
+  // handleEditProduct
+  const handleEditProduct = (product) => {
+    setIsEditingProduct(product);
+    setNewProduct({ name: product.name, price: product.price });
+    setIsEditing(true);
+  };
+  // handleUpdateProduct
+  const handleUpdateProduct = () => {
+    axios.put(`http://localhost:8081/api/product/update/${isEditingProduct.id}`,
+    newProduct
+    )
+    .then((response) => {
+      setProducts((prevProducts = prevProduct.map(product) =>{
+        if(product.id === isEditingProduct.id) {
+          return response.data;
+        }
+        return product;
+      });
+      return updateProducts;
+      );
+    });
+  };
+  // handleCancelProduct
   return (
     <div>
-      <h1> API 호출 확인 </h1>
-      <p>{data}</p>
-      <p>{data1}</p>
+      <h2>상품 리스트</h2>
+      <ul>
+        {products.map((product) => (
+          <li key={product.id}>
+            {product.name} - ${product.price}
+            <button onClick={() => handleDeleteProduct(product.id)}>
+              삭제하기
+            </button>
+            <button onClick={() => handleEditProduct(product)}>수정하기</button>
+          </li>
+        ))}
+      </ul>
+
+      <h2>{isEditing ? "상품 수정" : "상품 추가"}</h2>
+      <label>상품명:</label>
+      <input
+        type="text"
+        value={newProduct.name}
+        onChange={(e) => setNewProduct({ ...newProduct, name: e.target.value })}
+      />
+
+      <label>가격:</label>
+      <input
+        type="number"
+        value={newProduct.price}
+        onChange={(e) =>
+          setNewProduct({ ...newProduct, price: e.target.valueAsNumber })
+        }
+      />
+      {isEditing ? (
+        <div>
+          <button onClick={handleUpdateProduct}>상품수정</button>
+          <button onClick={handleCancelProduct}>수정취소</button>
+        </div>
+      ) : (
+        <button onClick={handleAddProduct}>상품추가</button>
+      )}
     </div>
   );
-}
+};
 
 export default App;
