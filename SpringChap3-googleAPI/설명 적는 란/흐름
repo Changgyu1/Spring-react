@@ -1,0 +1,21 @@
+웹에서 요청이 들어옵니다.
+구글로 로그인하겠다는 요청이 들어옵니다.
+
+구글로 로그인할 수 있는 공간으로 이동합니다.
+/oauth/loginSuccess 라는 공간으로 이동합니다.
+
+해당하는 메서드에서 OAuth2 사용해서 사용자 정보를 가지고오고, 
+가지고 온 정보를 데이터베이스에 저장하거나 그대로 세션에 가지고 있는 상태로 loginSuccess 라는 html 파일로 이동
+
+UserDetailsServiceImpl 안에 있는 loadIserByUsername 메서드에서 사용자 정보 데이터베이스에 저장하거나
+갖고 있는 상태에서 Spring Security에서 UserDetails 객체로 사용자 정보를 다시 전달
+
+해당 UserDetails 객체는 Spring Security에서 인증과 권한 부여에 사용할 수 있음
+또는 데이터베이스에 저장을 하거나 저장이 돼있는 정보를 가지고 있을 수 있음
+
+UserGooglerepository 와 UserRepository를 사용해서 데이터베이스에 저장된 사용자 정보를 조회하고 조작할 수 있음
+
+UserServiceImple에서는 UserGoogleRepository를 받아서 이 레포지토리를 통해 사용자 정보를 처리할 수 있음
+
+기존에 로그인 하던 방식과 크게 다른점은 없지만 다른 사이트의 정보를 가지고와서 조회하고 나의 데이터베이스에 저장해서 다시 가지고 온다는 부분이 조금 다를 뿐이지 여지껏 해왔던 로그인과
+크게 다르지 않음
