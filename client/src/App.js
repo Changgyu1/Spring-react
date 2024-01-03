@@ -51,21 +51,7 @@ const App = () => {
     setIsEditing(true);
   };
   // handleUpdateProduct
-  const handleUpdateProduct = () => {
-    axios.put(`http://localhost:8081/api/product/update/${isEditingProduct.id}`,
-    newProduct
-    )
-    .then((response) => {
-      setProducts((prevProducts = prevProduct.map(product) =>{
-        if(product.id === isEditingProduct.id) {
-          return response.data;
-        }
-        return product;
-      });
-      return updateProducts;
-      );
-    });
-  };
+
   // handleCancelProduct
   return (
     <div>
@@ -73,6 +59,7 @@ const App = () => {
       <ul>
         {products.map((product) => (
           <li key={product.id}>
+            ``
             {product.name} - ${product.price}
             <button onClick={() => handleDeleteProduct(product.id)}>
               삭제하기
@@ -98,14 +85,6 @@ const App = () => {
           setNewProduct({ ...newProduct, price: e.target.valueAsNumber })
         }
       />
-      {isEditing ? (
-        <div>
-          <button onClick={handleUpdateProduct}>상품수정</button>
-          <button onClick={handleCancelProduct}>수정취소</button>
-        </div>
-      ) : (
-        <button onClick={handleAddProduct}>상품추가</button>
-      )}
     </div>
   );
 };

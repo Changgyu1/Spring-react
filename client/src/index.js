@@ -1,13 +1,17 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import "./index.css";
+import KakaoApp from "./KakaoApp";
+import reportWebVitals from "./reportWebVitals";
+import GoogleLogin from "./GoogleLogin";
+import NaverApp from "./NaverApp";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <App />
+    <GoogleLogin />
+    <NaverApp />
+    <KakaoApp />
   </React.StrictMode>
 );
 

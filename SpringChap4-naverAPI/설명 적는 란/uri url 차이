@@ -1,0 +1,28 @@
+URI URL, URN 및 프로토콜의 개념과 차이에 대한 종합 설명......................
+
+URI(Uniform Resource Identifier)
+
+종합적인 자원 식별자로 리소스를 유일하게 식별하고 위치를 지정하는
+일반적인 식별자
+두 가지 유형 존재 URL URN
+
+URL(Uniform Resource Locator)
+ URI에 속해있는 Locator 로 리소스가 어디에 있는지를 나타냄
+ URL은 일반적으로 프로토콜과 호스트명 리소스 경로 등의 요소로 구성
+ 프로토콜(http https)
+ 
+URN(Uniform Resource Name)
+ 자원의 위치에 의존하지 않고 이름 자체로 자원을 식별
+ 어디있는지가 아니라 무엇인지에 중점을 둔 식별자
+ 도서 ISBN(국제 표준 도서번호) ISBN 도서가 어느나라 어디에 위치해 있는지가 아니라
+ 000 번은 000도서다. 로 번호로 도서가 무엇인지를 식별하는데 사용
+ 
+ 프로토콜(http https)
+ http(Hypertext Transfer Protocol)
+ 일반적으로 웹에서 텍스트나 그림 음성 동영상 등의 소스를 주고 받기 위해
+ 사용하는 주소
+ https(Hypertext Transfer Protocol Secure)
+ 보안이 강화된 버전으로 일반적으로 웹에서 텍스트나 그림 음성 동영상 등의 소스를 주고받기 위해 사용하는 주소
+ 암호화된 통신을 사용해서 데이터변조나 도청을 방지
+ 
+ 
