@@ -13,7 +13,7 @@ const NaverApp = () => {
   return (
     <NaverLogin
       clientId={clientId}
-      callbackUrl="http://localhost:3000/naverLogin"
+      callbackUrl="http://localhost:3000/login/oauth2/code/naver"
       onSuccess={NaverLoginSuccess}
       onFailure={NaverLoginFailure}
       render={(props) => (

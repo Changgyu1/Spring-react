@@ -4,14 +4,14 @@ import "./index.css";
 import KakaoApp from "./KakaoApp";
 import reportWebVitals from "./reportWebVitals";
 import GoogleLogin from "./GoogleLogin";
+import NaverLoginButton from "./NaverLoginButton";
 import NaverApp from "./NaverApp";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <GoogleLogin />
+    <NaverLoginButton />
     <NaverApp />
-    <KakaoApp />
   </React.StrictMode>
 );
 
