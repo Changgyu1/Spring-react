@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<title>Member Detail</title>
+</head>
+<body>
+	<h1>Member Detail</h1>
+	
+	<h1>Members List</h1>
+	
+	<div th:each="member : ${member}">
+	<p th:text="${member.memberID"></p>
+	<p th:text="${member.username"></p>
+	<p th:text="${member.fullName"></p>
+	<p th:text="${member.email"></p>
+	<p th:text="${member.registrationDate"></p>
+	<a href="/">메인페이지 이동</a>
+	</div>
+
+</body>
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTO Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.kh.springchap5.mapper.MembersMapper">
+
+<!-- 전체조회 -->
+<select id="getAllMembers" resultType="com.kh.springchap5.model.Member">
+SELECT * FROM Members ORDER BY MemberID DESC
+</select>
+
+<!-- 회원등록 -->
+<insert id="insertMember" parameterType="com.kh.springchap5.model.Member">
+	INSERT INTO Members (MemberID, USERNAME, PASSWORD, FULLNAME, EMAIL, REGISTRATIONDATE)
+	VALUES (members_seq.NEXTVAL, #{username}, #{password}, #{fullName}, #{email}, sysdate)
+</insert>
+
+<select id="getMemberById" parameterType="Long" resultType="com.kh.springchap5.model.Member">
+	SELECT * FROM Members WHERE MemberID = #{memberID}
+</select>
+
+</mapper>
