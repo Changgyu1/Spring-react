@@ -43,8 +43,8 @@ public class MemberController {
 	}
 	
 	@PostMapping("/register")
-	public String registerForm(Member member) {
-		memberService.signUpMember(member);
-		return "redirect:../../"; // 메인으로 보내기
+	public String registerMember(Member member) {
+		memberService.signUpMember(member.getUsername(), member.getPassword(), member.getFullName(), member.getEmail());
+		return "redirect:/";
 	}
 }

@@ -1,0 +1,509 @@
+순번,기관구분코드,개방기관,구분,데이터명,링크
+1,100100,문화재청,대표 홈페이지,문화유산 활용 행사 정보,https://www.cha.go.kr/evInfo/selectEventInfoList.do
+2,100100,문화재청,대표 홈페이지,문화유산 관람정보,https://www.cha.go.kr/html/HtmlPage.do?pg=/news/viewguide.jsp&mn=NS_01_25
+3,100100,문화재청,대표 홈페이지,문화재청 소식지,https://www.cha.go.kr/html/HtmlPage.do?pg=/news/lovepaper.jsp&mn=NS_01_09_01
+4,100100,문화재청,대표 홈페이지,KOREAN HERITAGE 누리잡지,https://www.cha.go.kr/html/HtmlPage.do?pg=/news/koreanheritage.jsp&mn=NS_01_09_05
+5,100100,문화재청,대표 홈페이지,문화재 수리실명제,https://www.cha.go.kr/html/HtmlPage.do?pg=/seek/svmnctrdlist01.jsp&mn=NS_03_05_01
+6,100100,문화재청,대표 홈페이지,수리기술자격자 정보,https://www.cha.go.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_1089&mn=NS_03_05_02
+7,100100,문화재청,대표 홈페이지,수리업체정보,https://www.cha.go.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_1090&mn=NS_03_05_03
+8,100100,문화재청,대표 홈페이지,문화재 발굴조사 현황공개,https://www.cha.go.kr/html/HtmlPage.do?pg=/seek/svmnctrdlist02.jsp&mn=NS_03_13
+9,100100,문화재청,대표 홈페이지,문화재 발굴조사 보고서,https://www.cha.go.kr/html/HtmlPage.do?pg=/seek/svmnctrdlist03.jsp&mn=NS_03_13_02
+10,100100,문화재청,대표 홈페이지,문화재 발굴조사 현장공개,https://www.cha.go.kr/html/HtmlPage.do?pg=/seek/Hp_GrndfieldopenList.jsp&mn=NS_03_13_03
+11,100100,문화재청,대표 홈페이지,지정문화재 총괄,https://www.cha.go.kr/html/HtmlPage.do?pg=/cultural_info/cultureTotal_ccrebasi_kor.jsp&mn=NS_03_07_03
+12,100100,문화재청,대표 홈페이지,문화재청 통계관련 간행물,https://www.cha.go.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_1020&mn=NS_03_07_04
+13,100100,문화재청,대표 홈페이지,문화재도서 간행물,https://www.cha.go.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_1021&mn=NS_03_08_01
+14,100100,문화재청,대표 홈페이지,문화유산 이야기 마당,https://www.cha.go.kr/html/HtmlPage.do?pg=/heritage/cul/cul_story_map.jsp&mn=NS_03_08_03
+15,100100,문화재청,대표 홈페이지,도난문화재 정보,https://www.cha.go.kr/robbery/selectRobberyList.do?mn=NS_03_12
+16,100100,문화재청,대표 홈페이지,문화유산교육자료,https://www.cha.go.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_1102&mn=NS_03_14
+17,100100,문화재청,대표 홈페이지,시설현황,https://www.cha.go.kr/cop/bbs/selectBoardList.do?mn=NS_04_02_04&pageIndex=2&pageUnit=10&searchCnd=&searchWrd=&ctgryLrcls=CTGRY135&ctgryMdcls=CTGRY135001&ctgrySmcls=&ntcStartDt=&ntcEndDt=&searchUseYn=&viewType=&schDirect=&openYn=&bbsId=BBSMSTR_1080
+18,100100,문화재청,대표 홈페이지,통계정보,https://www.cha.go.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_1080&mn=NS_04_02_04&ctgryLrcls=CTGRY135&ctgryMdcls=CTGRY135002
+19,100100,문화재청,대표 홈페이지,학술연구,https://www.cha.go.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_1080&mn=NS_04_02_04&ctgryLrcls=CTGRY135&ctgryMdcls=CTGRY135004
+20,100100,문화재청,대표 홈페이지,문화재관리,https://www.cha.go.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_1080&mn=NS_04_02_04&ctgryLrcls=CTGRY135&ctgryMdcls=CTGRY135005
+21,100200,문화재청,공공데이터 포털,문화재청_문화재 공간 정보,https://www.data.go.kr/data/3070426/openapi.do
+22,100200,문화재청,공공데이터 포털,문화재청_왕실유물정보,https://www.data.go.kr/data/3073972/openapi.do
+23,100200,문화재청,공공데이터 포털,문화재청 4대궁 및 종묘 문화재 해설 정보,https://www.data.go.kr/data/15028101/openapi.do
+24,100200,문화재청,공공데이터 포털,문화재청 전국 지정 문화재 현황,https://www.data.go.kr/data/15034324/openapi.do
+25,100200,문화재청,공공데이터 포털,문화재청_영주 부석사 무량수전 앞 석등 도면,https://www.data.go.kr/data/15059756/fileData.do
+26,100200,문화재청,공공데이터 포털,문화재청_구 마산헌병 분견대 도면 정보,https://www.data.go.kr/data/15032398/fileData.do
+27,100200,문화재청,공공데이터 포털,문화재청_서울 구 용산철도병원 본관 도면 정보,https://www.data.go.kr/data/15032399/fileData.do
+28,100200,문화재청,공공데이터 포털,문화재청 문화유산 3D 프린팅 데이터 현황,https://www.data.go.kr/data/15028100/fileData.do
+29,100200,문화재청,공공데이터 포털,문화재청_중요목조문화재 방재인적 인프라 현황,https://www.data.go.kr/data/15063348/fileData.do
+30,100200,문화재청,공공데이터 포털,창덕궁 도면 파일,https://www.data.go.kr/data/15068684/fileData.do
+31,100200,문화재청,공공데이터 포털,문화재청_구 이리농림학교 축산과 교사,https://www.data.go.kr/data/15066216/fileData.do
+32,100200,문화재청,공공데이터 포털,문화재청_문화유산_ASMR_국가무형문화재 87호 명주짜기,https://www.data.go.kr/data/15064765/fileData.do
+33,100200,문화재청,공공데이터 포털,문화재청_문화유산_ASMR_명승 3호 구계등의 몽돌해변에서 나는 소리,https://www.data.go.kr/data/15064880/fileData.do
+34,100200,문화재청,공공데이터 포털,문화재청_영주 소수서원 강학당 및 문성공묘,https://www.data.go.kr/data/15059749/fileData.do
+35,100200,문화재청,공공데이터 포털,문화재청_영주 부석사 무량수전 실측조사 보고서,https://www.data.go.kr/data/15059751/fileData.do
+36,100200,문화재청,공공데이터 포털,문화재청_경주 포석정지(사적 제 1호) 도면,https://www.data.go.kr/data/15062565/fileData.do
+37,100200,문화재청,공공데이터 포털,문화재청_왕실유물정보,https://www.data.go.kr/data/15083332/fileData.do
+38,100200,문화재청,공공데이터 포털,문화재청_문화유산 향유 및 인식 실태조사 현황,https://www.data.go.kr/data/15031792/fileData.do
+39,100200,문화재청,공공데이터 포털,문화재청_철원 얼음창고 도면(JPG),https://www.data.go.kr/data/15061817/fileData.do
+40,100200,문화재청,공공데이터 포털,문화재청_철원 농산물검사도 도면(JPG),https://www.data.go.kr/data/15061818/fileData.do
+41,100200,문화재청,공공데이터 포털,문화재청_전통산사문화재 사업 지원 현황,https://www.data.go.kr/data/15087528/fileData.do#tab-layer-file
+42,100200,문화재청,공공데이터 포털,문화재청_향교 및 서원 문화재 활용사업 지원 현황,https://www.data.go.kr/data/15087527/fileData.do
+43,100200,문화재청,공공데이터 포털,문화재청_문화재 야행사업 지원 현황,https://www.data.go.kr/data/15087526/fileData.do
+44,100200,문화재청,공공데이터 포털,문화재청_문화유산채널 플랫폼별 콘텐츠 제공 및 이용자 현황,https://www.data.go.kr/data/15087525/fileData.do
+45,100200,문화재청,공공데이터 포털,문화재청_세계유산 관람객 현황,https://www.data.go.kr/data/15087524/fileData.do
+46,100200,문화재청,공공데이터 포털,문화재청_궁능문화재 안내해설사 현황,https://www.data.go.kr/data/15087523/fileData.do
+47,100200,문화재청,공공데이터 포털,문화재청_국외문화재 환수 현황,https://www.data.go.kr/data/15087530/fileData.do
+48,100200,문화재청,공공데이터 포털,문화재청_발굴허가대장,https://www.data.go.kr/data/15088662/fileData.do
+49,100200,문화재청,공공데이터 포털,문화재청_문화재수리업자 현황,https://www.data.go.kr/data/15088664/fileData.do
+50,100200,문화재청,공공데이터 포털,문화재청_도난문화재 목록,https://www.data.go.kr/data/15089237/fileData.do
+51,100200,문화재청,공공데이터 포털,문화재청_문화재 공간정보 서비스,https://www.data.go.kr/data/15089320/fileData.do
+52,100200,문화재청,공공데이터 포털,문화재청_창덕궁 낙선재 창호 상세도,https://www.data.go.kr/data/15089944/fileData.do
+53,100200,문화재청,공공데이터 포털,문화재청_사천왕사지 전체배치도,https://www.data.go.kr/data/15089973/fileData.do
+54,100200,문화재청,공공데이터 포털,문화재청_발굴보고서 제출목록,https://www.data.go.kr/data/15088661/fileData.do
+55,100200,문화재청,공공데이터 포털,문화재청_해양문화유산보고서,https://www.data.go.kr/data/15089239/fileData.do
+56,100200,문화재청,공공데이터 포털,문화재청_문화재 돌봄사업 수행기관,https://www.data.go.kr/data/15088660/fileData.do
+57,100200,문화재청,공공데이터 포털,문화재청_동물치료소 현황,https://www.data.go.kr/data/15087531/fileData.do
+58,100200,문화재청,공공데이터 포털,문화재청_한국전통문화대학교 학술정보관 소장목록,https://www.data.go.kr/data/15088666/fileData.do
+59,100200,문화재청,공공데이터 포털,문화재청_문화재수리업자 지역별 등록현황,https://www.data.go.kr/data/15088663/fileData.do
+60,100200,문화재청,공공데이터 포털,문화재청_자료실 등록도서 목록,https://www.data.go.kr/data/15088665/fileData.do
+61,100200,문화재청,공공데이터 포털,문화재청_사직단 남신문 및 좌우담장 3D 실측모델링,https://www.data.go.kr/data/15092135/fileData.do
+62,100200,문화재청,공공데이터 포털,문화재청_경복궁 여강문 3D 실측모델링,https://www.data.go.kr/data/15092137/fileData.do
+63,100200,문화재청,공공데이터 포털,문화재청_경복궁 녹운문 3D 실측모델링,https://www.data.go.kr/data/15092138/fileData.do
+64,100200,문화재청,공공데이터 포털,문화재청_경복궁 삼비문 3D 실측모델링,https://www.data.go.kr/data/15092140/fileData.do
+65,100200,문화재청,공공데이터 포털,문화재청_경복궁 근정문 서월랑 3D 실측모델링,https://www.data.go.kr/data/15092141/fileData.do
+66,100200,문화재청,공공데이터 포털,문화재청_경복궁 건숙문 3D 실측모델링,https://www.data.go.kr/data/15092144/fileData.do
+67,100200,문화재청,공공데이터 포털,문화재청_사직단신실 3D 실측모델링,https://www.data.go.kr/data/15092134/fileData.do
+68,100200,문화재청,공공데이터 포털,문화재청_사직단 신실 3D 실측모델링 obj,https://www.data.go.kr/data/15092145/fileData.do
+69,100200,문화재청,공공데이터 포털,문화재청_경복궁 숭덕문 3D 실측모델링,https://www.data.go.kr/data/15092139/fileData.do
+70,100200,문화재청,공공데이터 포털,문화재청_경복궁 숭덕문 3D 실측모델링 obj,https://www.data.go.kr/data/15092146/fileData.do
+71,100200,문화재청,공공데이터 포털,문화재청_경복궁 필성문 3D 실측모델링,https://www.data.go.kr/data/15092136/fileData.do
+72,100200,문화재청,공공데이터 포털,문화재청_경복궁 필성문 3D 실측모델링 obj,https://www.data.go.kr/data/15092147/fileData.do
+73,100200,문화재청,공공데이터 포털,문화재청_경복궁 사정문 3D 실측모델링,https://www.data.go.kr/data/15092148/fileData.do
+74,100200,문화재청,공공데이터 포털,문화재청_사직단 안향청 3D 실측모델링,https://www.data.go.kr/data/15092149/fileData.do
+75,100200,문화재청,공공데이터 포털,문화재청_경복궁 동수문장청 3D 실측모델링,https://www.data.go.kr/data/15092150/fileData.do
+76,100200,문화재청,공공데이터 포털,문화재청_경복궁 서수문장청 3D 실측모델링,https://www.data.go.kr/data/15092151/fileData.do
+77,100200,문화재청,공공데이터 포털,문화재청_경복궁 초양문 3D 실측모델링,https://www.data.go.kr/data/15092153/fileData.do
+78,100200,문화재청,공공데이터 포털,문화재청_경복궁 강녕전 동행각 3D 실측모델링,https://www.data.go.kr/data/15092156/fileData.do
+79,100200,문화재청,공공데이터 포털,문화재청_경복궁 연수문 3D 실측모델링,https://www.data.go.kr/data/15092143/fileData.do
+80,100200,문화재청,공공데이터 포털,문화재청_경복궁 근정문 동월랑 3D 실측모델링,https://www.data.go.kr/data/15092142/fileData.do
+81,100200,문화재청,공공데이터 포털,문화재청_문화재 기상정보,https://www.data.go.kr/data/15087151/fileData.do
+82,100200,문화재청,공공데이터 포털,문화재청_지역문화재 활용사업,https://www.data.go.kr/data/15091660/fileData.do
+83,100300,문화재청,어린이청소년 문화재청,문화재의 종류는,https://kids.cha.go.kr/kids/information/cultural_kind/cultural_kind_01.jsp?mc=KD_01_01
+84,100300,문화재청,어린이청소년 문화재청,문화재를 배워요,https://kids.cha.go.kr/kids/work/09_cha01.jsp?mc=KD_01_02_01
+85,100300,문화재청,어린이청소년 문화재청,움직이는 민속 동화,https://kids.cha.go.kr/kids/work/09_cha06.jsp?mc=KD_01_03
+86,100300,문화재청,어린이청소년 문화재청,만화로 보는 박물과 여행,https://kids.cha.go.kr/kids/work/09_cha07.jsp?mc=KD_01_04
+87,100300,문화재청,어린이청소년 문화재청,학교에서 배우는 문화재,https://kids.cha.go.kr/kids/school/explanation/sc_cultural.jsp?mc=KD_02_06_01&sub_tab=sub_tab01
+88,100300,문화재청,어린이청소년 문화재청,우리지역 문화재,http://heritage.go.kr/heri/cul/culRegionView.do?pageNo=1_1_3_1
+89,100300,문화재청,어린이청소년 문화재청,동영상으로 배우는 문화재,https://kids.cha.go.kr/kids/multiBbzList.action?bbzId=kidsanimation&mc=KD_02_03_01
+90,100300,문화재청,어린이청소년 문화재청,문화재 이야기,https://kids.cha.go.kr/kids/school/explanation/sc_cultural_08.jsp?mc=KD_03_01_01
+91,100300,문화재청,어린이청소년 문화재청,국보 이야기,https://kids.cha.go.kr/kids/school/explanation/sc_cultural_10.jsp?mc=KD_03_02_01
+92,100300,문화재청,어린이청소년 문화재청,전통민속문화 이야기,https://kids.cha.go.kr/kids/school/explanation/sc_cultural_08.jsp?mc=KD_03_01_01
+93,100300,문화재청,어린이청소년 문화재청,한국의 유네스코 등재유산,https://kids.cha.go.kr/kids/school/world_heritage/world_heritage_01.jsp?mc=KD_03_04_01
+94,100300,문화재청,어린이청소년 문화재청,문화재 용어사전,https://kids.cha.go.kr/kids/dictionList.action?mc=KD_03_05
+95,100300,문화재청,어린이청소년 문화재청,문화재 질문모음,http://www.heritage.go.kr/heri/html/HtmlPage.do?pg=/cul/cultureEasySub01.jsp&pageNo=1_4_1_0
+96,100300,문화재청,어린이청소년 문화재청,웹툰 만화,https://kids.cha.go.kr/kids/multiBbzList.action?bbzId=kidswebtoon2&mc=KD_08_01_02
+97,100400,문화재청,문화재지킴이,문화재 지킴이란,https://jikimi.cha.go.kr/jikimi/public/html/HtmlPage.do?pg=/sub/sub_301/sub_3010000_1.jsp&pageNo=3010000
+98,100400,문화재청,문화재지킴이,주요활동 소개,https://jikimi.cha.go.kr/jikimi/public/html/HtmlPage.do?pg=/sub/sub_302/sub_3020000_1.jsp&pageNo=3020000
+99,100400,문화재청,문화재지킴이,지킴이 활동백서,https://jikimi.cha.go.kr/jikimi/public/html/HtmlPage.do?pg=/sub/sub_303/sub_3030000_1.jsp&pageNo=3030000
+100,100400,문화재청,문화재지킴이,생생! 지킴이 활동,https://jikimi.cha.go.kr/jikimi/public/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000081&nttId=0&bbsTyCode=BBST01&bbsAttrbCode=BBSA03&authFlag=&pageIndex=2&pageNo=2000000&searchBgnDe=&searchEndDe=&searchCnd=0&searchWrd=
+101,100400,문화재청,문화재지킴이,지킴이 기업,https://jikimi.cha.go.kr/jikimi/public/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000000131&nttId=31209&bbsTyCode=BBST01&bbsAttrbCode=BBSA03&authFlag=&pageIndex=1&pageNo=2040000&searchBgnDe=&searchEndDe=&searchCnd=0&searchWrd=
+102,100400,문화재청,문화재지킴이,지킴이 민간단체,https://jikimi.cha.go.kr/jikimi/public/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000000132&nttId=31219&bbsTyCode=BBST01&bbsAttrbCode=BBSA03&authFlag=&pageIndex=1&pageNo=2040200&searchBgnDe=&searchEndDe=&searchCnd=0&searchWrd=
+103,100400,문화재청,문화재지킴이,청년 유네스코,https://jikimi.cha.go.kr/jikimi/public/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000169&pageNo=2040300
+104,100400,문화재청,문화재지킴이,지킴이 활동실적,https://jikimi.cha.go.kr/jikimi/public/rep/selectOpenReportList.do?pageNo=2050000
+105,100400,문화재청,문화재지킴이,자료실,https://jikimi.cha.go.kr/jikimi/public/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000091&pageNo=1020000
+106,100400,문화재청,문화재지킴이,지킴이 행사안내,https://jikimi.cha.go.kr/jikimi/public/evt/selectEventListArticle.do?pageNo=1030000
+107,100400,문화재청,문화재지킴이,우리지역 지킴이,https://jikimi.cha.go.kr/jikimi/public/cul/selectCulJikimiStats.do?pageIndex=1&ccbaCtcd=11
+108,100400,문화재청,문화재지킴이,사진토크,https://jikimi.cha.go.kr/jikimi/public/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000071&pageNo=4010000
+109,100400,문화재청,문화재지킴이,캠페인 영상,https://jikimi.cha.go.kr/jikimi/public/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000121&pageNo=4040000
+110,100500,문화재청,문화재공간정보 서비스,문화재공간정보 서비스,http://gis-heritage.go.kr/main.do
+111,100600,문화재청,현충사 관리소,현충사 둘러보기,http://hcs.cha.go.kr/html/HtmlPage.do?pg=/n_hcs/hcs/hcs020201.jsp&mn=HCS_01_02_02
+112,100600,문화재청,현충사 관리소,충무공 이순신 기념관,http://hcs.cha.go.kr/html/HtmlPage.do?pg=/n_hcs/hall/hall020101.jsp&mn=HCS_02_02_01
+113,100600,문화재청,현충사 관리소,충무공 자료실,http://hcs.cha.go.kr/html/HtmlPage.do?pg=/n_hcs/library/library0301.jsp&mn=HCS_03_03_01
+114,100600,문화재청,현충사 관리소,난중일기 초고본,http://hcs.cha.go.kr/html/HtmlPage.do?pg=/n_hcs/library/library02.jsp&mn=HCS_03_02
+115,100600,문화재청,현충사 관리소,충무공 간행물,http://hcs.cha.go.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_1074&mn=HCS_03_05&searchSiteCd=HCS
+116,100600,문화재청,현충사 관리소,충무공 학술자료,http://hcs.cha.go.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_1075&mn=HCS_03_06&searchSiteCd=HCS
+117,100600,문화재청,현충사 관리소,현충사 관리소 관람안내,http://hcs.cha.go.kr/html/HtmlPage.do?pg=/n_hcs/intro/intro01.jsp&mn=HCS_04_01
+118,100700,문화재청,국가문화유산포털,문화유산견문록 서비스,https://www.heritage.go.kr/mh/
+119,100700,문화재청,국가문화유산포털,문화재 검색,https://www.heritage.go.kr/heri/cul/culSelectView.do?pageNo=1_1_1_0
+120,100700,문화재청,국가문화유산포털,문화재 종목별 검색,https://www.heritage.go.kr/heri/cul/culSelectViewList.do?s_kdcd=00&s_ctcd=00&gbn=2&ccbaPcd1=99&region=2&pageNo=1_1_2_0
+121,100700,문화재청,국가문화유산포털,우리지역 문화재,https://www.heritage.go.kr/heri/cul/culRegionView.do?pageNo=1_1_3_1
+122,100700,문화재청,국가문화유산포털,유형 분류,https://www.heritage.go.kr/heri/cul/culDivView2.do?tabGubun=2&pageNo=1_1_4_0
+123,100700,문화재청,국가문화유산포털,문화재 안내판 검색,https://www.heritage.go.kr/heri/cul/culGuidePostView.do?pageNo=1_1_5_0
+124,100700,문화재청,국가문화유산포털,기록유산 원문 종목별 검색,https://www.heritage.go.kr/heri/mem/selectSearchList.do?s_code1=99&s_code2=11&pageNo=1_2_1_0
+125,100700,문화재청,국가문화유산포털,기록유산 원문 유형별 검색,https://www.heritage.go.kr/heri/mem/selectSearchList.do?s_code1=00&s_code2=01&pageNo=1_2_2_0
+126,100700,문화재청,국가문화유산포털,기록유산 원문 시대별 검색,https://www.heritage.go.kr/heri/mem/selectSearchList.do?s_code1=66&s_code2=20&pageNo=1_2_3_0
+127,100700,문화재청,국가문화유산포털,기록유산 원문 형태별 검색,https://www.heritage.go.kr/heri/mem/selectSearchList.do?s_code1=31&s_code2=01&pageNo=1_2_4_0
+128,100700,문화재청,국가문화유산포털,기록유산 원문 시도별 검색,https://www.heritage.go.kr/heri/mem/selectSearchList.do?s_code1=55&s_code2=11&pageNo=1_2_5_0
+129,100700,문화재청,국가문화유산포털,기록유산 원문 검색,https://www.heritage.go.kr/heri/mem/selectSearchConform.do?pageNo=1_2_6_0
+130,100700,문화재청,국가문화유산포털,박물관 소장품,http://www.heritage.go.kr/heri/search/museumList.do?pageIndex=&id=&museumSearch=&searchKeyWord=&pageNo=1_3_1_1&s_query
+131,100700,문화재청,국가문화유산포털,문화재 이것이 궁금해요,http://www.heritage.go.kr/heri/html/HtmlPage.do?pg=/cul/cultureEasySub01.jsp&pageNo=1_4_1_1
+132,100700,문화재청,국가문화유산포털,문화재행정 이것이 궁금해요,http://www.heritage.go.kr/heri/html/HtmlPage.do?pg=/cul/cultureEasySub02.jsp&pageNo=1_4_2_0
+133,100700,문화재청,국가문화유산포털,용어 사전,http://www.heritage.go.kr/heri/dic/selectDicList.do?startWrd=%EA%B0%80&endWrd=%EB%82%98&pageNo=1_5_0_0
+134,100700,문화재청,국가문화유산포털,경복궁 소개 및 관람안내,http://www.heritage.go.kr/heri/html/HtmlPage.do?pg=/palaces/palacesRoyalInfo.jsp&pageNo=2_1_1_1
+135,100700,문화재청,국가문화유산포털,경복궁 이야기,http://www.heritage.go.kr/heri/gungDetail/gogungList.do?gungNum=1&pageNo=2_1_3_0
+136,100700,문화재청,국가문화유산포털,창덕궁 소개 및 관람안내,http://www.heritage.go.kr/heri/html/HtmlPage.do?pg=/palaces/palacesCdgInfo.jsp&pageNo=2_2_1_0
+137,100700,문화재청,국가문화유산포털,창덕궁 이야기,http://www.heritage.go.kr/heri/gungDetail/gogungList.do?gungNum=2&pageNo=2_2_3_0
+138,100700,문화재청,국가문화유산포털,덕수궁 소개 및 관람안내,http://www.heritage.go.kr/heri/html/HtmlPage.do?pg=/palaces/palacesDeokInfo.jsp&pageNo=2_3_1_0
+139,100700,문화재청,국가문화유산포털,덕수궁 이야기,http://www.heritage.go.kr/heri/gungDetail/gogungList.do?gungNum=4&pageNo=2_3_3_0
+140,100700,문화재청,국가문화유산포털,창경궁 소개 및 관람안내,http://www.heritage.go.kr/heri/html/HtmlPage.do?pg=/palaces/palacesCggInfo.jsp&pageNo=2_4_1_0
+141,100700,문화재청,국가문화유산포털,창경궁 이야기,http://www.heritage.go.kr/heri/gungDetail/gogungList.do?gungNum=3&pageNo=2_4_3_0
+142,100700,문화재청,국가문화유산포털,종묘 소개 및 관람안내,http://www.heritage.go.kr/heri/html/HtmlPage.do?pg=/palaces/palacesJmInfo.jsp&pageNo=2_5_1_1
+143,100700,문화재청,국가문화유산포털,종묘 이야기,http://www.heritage.go.kr/heri/gungDetail/gogungList.do?gungNum=5&pageNo=2_5_3_0
+144,100700,문화재청,국가문화유산포털,궁궐 이야기,http://www.heritage.go.kr/heri/html/HtmlPage.do?pg=/palaces/palacesHistory.jsp&pageNo=2_6_1_1
+145,100700,문화재청,국가문화유산포털,한눈에 보는 조선왕릉,http://www.heritage.go.kr/heri/html/HtmlPage.do?pg=/royaltombs/royaltombs.jsp&pageNo=3_1_0_0
+146,100700,문화재청,국가문화유산포털,조선왕실(선원계보),http://www.heritage.go.kr/heri/html/HtmlPage.do?pg=/royaltombs/royalFamilyGen.jsp&pageNo=3_2_0_0
+147,100700,문화재청,국가문화유산포털,그림으로 보는 국장행렬,http://royaltombs.cha.go.kr/new/pop_state_funeral/index.html
+148,100700,문화재청,국가문화유산포털,기록유산 알기,http://www.heritage.go.kr/heri/html/HtmlPage.do?pg=/mem/memoryInfo.jsp&pageNo=4_1_1_0
+149,100700,문화재청,국가문화유산포털,기록유산 영상,http://www.heritage.go.kr/heri/html/HtmlPage.do?pg=/mem/memory_sub04.jsp&pageNo=4_1_4_0
+150,100700,문화재청,국가문화유산포털,의궤정보,http://www.heritage.go.kr/heri/html/HtmlPage.do?pg=/mem/uigweInfo.jsp&pageNo=4_2_1_0
+151,100700,문화재청,국가문화유산포털,규장각 장서각 의궤,http://www.heritage.go.kr/gae/search1.jsp?pageNo=4_2_3_0
+152,100700,문화재청,국가문화유산포털,인장정보,http://www.heritage.go.kr/heri/html/HtmlPage.do?pg=/inj/injangInfo.jsp&pageNo=4_3_1_0
+153,100700,문화재청,국가문화유산포털,인장목록,http://www.heritage.go.kr/heri/inj/selectIJList.do?s_code1=99&s_code2=11&pageNo=4_3_3_0
+154,100700,문화재청,국가문화유산포털,활자정보,http://www.heritage.go.kr/heri/html/HtmlPage.do?pg=/hwalja/hwalja02.jsp&pageNo=4_4_1_0
+155,100700,문화재청,국가문화유산포털,한국의 세계유산,http://www.heritage.go.kr/heri/html/HtmlPage.do?pg=/unesco/korHeritageInfo.jsp&pageNo=5_2_2_0
+156,100700,문화재청,국가문화유산포털,한국의 인류무형문화유산,http://www.heritage.go.kr/heri/html/HtmlPage.do?pg=/unesco/korInCulHeritage.jsp&pageNo=5_3_2_0
+157,100700,문화재청,국가문화유산포털,한국의 세계기록유산,http://www.heritage.go.kr/heri/html/HtmlPage.do?pg=/unesco/korWorldMemHeritage.jsp&pageNo=5_4_2_0
+158,100700,문화재청,국가문화유산포털,3D 문화유산 소개,http://www.heritage.go.kr/heri/html/HtmlPage.do?pg=/threeD/3dInfomation.jsp&pageNo=6_1_1_0
+159,100700,문화재청,국가문화유산포털,3D 영상으로 본 한국의 세계유산 (창덕궁),http://www.heritage.go.kr/heri/threeD/select3DCulScanList.do?pageNo=6_2_1_1
+160,100700,문화재청,국가문화유산포털,3D 영상으로 본 한국의 세계유산 (양동마을),http://www.heritage.go.kr/heri/threeD/select3DCulScanList.do?scanGbn=2
+161,100700,문화재청,국가문화유산포털,교과서 속 문화유산,http://www.heritage.go.kr/heri/threeD/select3DTextBook.do?pageNo=6_2_2_0
+162,100700,문화재청,국가문화유산포털,3D 문화유산 검색,http://www.heritage.go.kr/heri/threeD/select3DCulList.do?pageNo=6_3_1_0
+163,100800,문화재청,칠백의총 관리소,칠백의총 이야기,https://700.cha.go.kr/agapp/public/html/HtmlPage.do?pg=/sh/01/introduce_01.jsp&pageNo=79010000&siteCd=SH
+164,100800,문화재청,칠백의총 관리소,사진으로 보는 칠백의총,https://700.cha.go.kr/agapp/public/html/HtmlPage.do?pg=/sh/01/history_01.jsp&pageNo=79020200&siteCd=SH
+165,100800,문화재청,칠백의총 관리소,제향 행사,http://700.cha.go.kr/agapp/public/html/HtmlPage.do?pg=/sh/01/event_01.jsp&pageNo=79030000&siteCd=SH 
+166,100800,문화재청,칠백의총 관리소,칠백의총의 사계,https://700.cha.go.kr/agapp/public/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000210&pageNo=79050000&siteCd=SH
+167,100800,문화재청,칠백의총 관리소,관람안내,https://700.cha.go.kr/agapp/public/html/HtmlPage.do?pg=/sh/02/information_01.jsp&pageNo=78010100&siteCd=SH
+168,100800,문화재청,칠백의총 관리소,칠백의총 소식,http://700.cha.go.kr/agapp/public/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000211&pageNo=77030000&siteCd=SH 
+169,100800,문화재청,칠백의총 관리소,발간 자료,http://700.cha.go.kr/agapp/public/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000232&pageNo=75000000&siteCd=SH 
+170,100800,문화재청,칠백의총 관리소,동영상,https://700.cha.go.kr/agapp/public/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000233&pageNo=75030000&siteCd=SH
+171,100800,문화재청,칠백의총 관리소,기념관 및 주요의사 소개,https://700.cha.go.kr/agapp/public/html/HtmlPage.do?pg=/sh/06/memorial_03.jsp&pageNo=74010000&siteCd=SH
+172,100800,문화재청,칠백의총 관리소,기록화,https://700.cha.go.kr/agapp/public/html/HtmlPage.do?pg=/sh/06/memorial_01.jsp&pageNo=74020100&siteCd=SH
+173,100800,문화재청,칠백의총 관리소,소장유물,http://700.cha.go.kr/agapp/public/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000214&nttId=0&bbsTyCode=BBST01&bbsAttrbCode=BBSA03&authFlag=&pageIndex=1&pageNo=74020200&ctgoryId=&siteCd=SH&searchBgnDe=&searchEndDe=&searchCnd=4&searchWrd=
+174,100800,문화재청,칠백의총 관리소,지정문화재현황,http://700.cha.go.kr/agapp/public/html/HtmlPage.do?pg=/sh/06/cultureView.jsp&pageNo=74020300&siteCd=SH 
+175,100900,문화재청,만인의총관리소,만인의총 소개,http://www.cha.go.kr/agapp/public/html/HtmlPage.do?pg=/manin/01/sub01_01.jsp&pageNo=79010000&siteCd=MANIN
+176,100900,문화재청,만인의총관리소,렌즈 속 만인의총,http://www.cha.go.kr/agapp/public/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000215&pageNo=79040000&siteCd=MANIN
+177,100900,문화재청,만인의총관리소,만인의사 소개,http://www.cha.go.kr/agapp/public/html/HtmlPage.do?pg=/manin/02/sub03_02.jsp&pageNo=78010000&siteCd=MANIN
+178,100900,문화재청,만인의총관리소,만인의사 기록화,http://www.cha.go.kr/agapp/public/html/HtmlPage.do?pg=/manin/02/sub03_03.jsp&pageNo=78020000&siteCd=MANIN
+179,100900,문화재청,만인의총관리소,소장유물 관람,http://www.cha.go.kr/agapp/public/html/HtmlPage.do?pg=/manin/02/sub03_04_01.jsp&pageNo=78030000&siteCd=MANIN
+180,100900,문화재청,만인의총관리소,만인행사 공지사항,http://www.cha.go.kr/agapp/public/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000219&pageNo=77030000&siteCd=MANIN
+181,100900,문화재청,만인의총관리소,순의제향,http://www.cha.go.kr/agapp/public/html/HtmlPage.do?pg=/manin/03/sub04_01.jsp&pageNo=77010100&siteCd=MANIN
+182,100900,문화재청,만인의총관리소,추모 예능대회,http://www.cha.go.kr/agapp/public/html/HtmlPage.do?pg=/manin/03/sub_07_01.jsp&pageNo=77020200&siteCd=MANIN
+183,100900,문화재청,만인의총관리소,관람안내,http://www.cha.go.kr/agapp/public/html/HtmlPage.do?pg=/manin/04/sub02_01_01.jsp&pageNo=76000000&siteCd=MANIN
+184,100900,문화재청,만인의총관리소,만인의총 알림마당,http://www.cha.go.kr/agapp/public/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000221&pageNo=75010000&siteCd=MANIN
+185,200100,한국전통문화대학교,대표 홈페이지,문화재돌봄사업단 시군별문화재,https://www.nuch.ac.kr/nucheia/brd/view.do?mnuBaseId=MNU0000914&topBaseId=MNU0000889&tplSer=121&atcSer=24886 
+186,200100,한국전통문화대학교,대표 홈페이지,문화재돌봄사업단 종류별문화재,https://www.nuch.ac.kr/nucheia/brd/view.do?mnuBaseId=MNU0000914&topBaseId=MNU0000889&tplSer=121&atcSer=24887 
+187,200100,한국전통문화대학교,대표 홈페이지,한국전통문화연구 논문열람,https://nuch.ac.kr/itch/brd/list.do?mnuBaseId=MNU0000874&topBaseId=MNU0000873&tplSer=112 
+188,200100,한국전통문화대학교,대표 홈페이지,유네스코석좌 프로그램 결과보고서,https://nuch.ac.kr/kr/brd/list.do?mnuBaseId=MNU0000939&topBaseId=MNU0000008&tplSer=132&tabBaseId=MNU0000944#link 
+189,200100,한국전통문화대학교,대표 홈페이지,통계 현황,https://www.academyinfo.go.kr/popup/pubinfo1690/list.do?schlId=0003022 
+190,200100,한국전통문화대학교,대표 홈페이지,한국전통문화학보,https://nuch.ac.kr/kr/brd/list.do?mnuBaseId=MNU0000149&topBaseId=MNU0000009&tplSer=15 
+191,300100,국립무형유산원,대표 홈페이지,무형유산 이야기,https://www.nihc.go.kr/planweb/board/list.9is?contentUid=ff8080816f40a80f016f7eab66c50d59&boardUid=ff8080816ed8ebd3016ee88d76f100eb
+192,300100,국립무형유산원,대표 홈페이지,이달의 공연,https://www.nihc.go.kr/planweb/board/list.9is?contentUid=ff8080816ed8ebd3016ee9793c53019c&boardUid=ff8080816ecaefcf016ecfc31e210243&contentUid=ff8080816ed8ebd3016ee9793c53019c&subPath=
+193,300100,국립무형유산원,대표 홈페이지,연간 공연일정,https://www.nihc.go.kr/planweb/board/list.9is?contentUid=ff8080816f40a80f016f7ed5f3f20dbf&boardUid=ff8080816ecaefcf016ecfc31e210243&contentUid=ff8080816f40a80f016f7ed5f3f20dbf&subPath= 
+194,300100,국립무형유산원,대표 홈페이지,전시,https://www.nihc.go.kr/index.9is?contentUid=ff8080816ea155f3016ec43ed0ff006a
+195,300100,국립무형유산원,대표 홈페이지,지난전시 자료보기,https://www.iha.go.kr/service/performance/getFolderList.nihc?content_type=GT04000002
+196,300100,국립무형유산원,대표 홈페이지,교육,https://www.nihc.go.kr/planweb/board/list.9is?contentUid=ff8080816eee4ad5016eee8e465400c6&boardUid=ff8080816ecaefcf016ecfc31e210243&contentUid=ff8080816eee4ad5016eee8e465400c6&subPath=
+197,300100,국립무형유산원,대표 홈페이지,e-무형유산 배움터,https://support.nihc.go.kr/iptl/edu/index.do
+198,300100,국립무형유산원,대표 홈페이지,연간 교육일정,https://www.nihc.go.kr/planweb/board/list.9is?page=1&boardUid=ff8080816ecaefcf016ecfc31e210243&contentUid=ff8080816ea155f3016ec48c82840094&layoutUid=&searchType=&keyword=&categoryUid1=&categoryUid2=&cateogryUid3=&year=2020 
+199,300100,국립무형유산원,대표 홈페이지,국제무형유산영상축제,https://iiff.iha.go.kr/service/main.nihc
+200,300100,국립무형유산원,대표 홈페이지,대한민국 무형문화재 대전,https://mhdj2021.modoo.at/
+201,300100,국립무형유산원,대표 홈페이지,라키비움 책마루 강좌,https://library.nihc.go.kr/
+202,300100,국립무형유산원,대표 홈페이지,전승지원,https://support.nihc.go.kr/iptl/wshop/wshopL.do
+203,300200,국립무형유산원,공공데이터 포털,문화재청 국립무형유산원_음원 디지털 해설서,https://www.data.go.kr/data/15064369/openapi.do
+204,300200,국립무형유산원,공공데이터 포털,문화재청 국립무형유산원_공연/전시/교육 디지털보고서,https://www.data.go.kr/data/15064368/openapi.do
+205,300200,국립무형유산원,공공데이터 포털,문화재청 국립무형유산원_학술연구 디지털보고서,https://www.data.go.kr/data/15064367/openapi.do
+206,300200,국립무형유산원,공공데이터 포털,문화재청 국립무형유산원_무형유산기록화 디지털보고서,https://www.data.go.kr/data/15064366/openapi.do
+207,300200,국립무형유산원,공공데이터 포털,문화재청 국립무형유산원_학술조사자료 정보,https://www.data.go.kr/data/15028219/openapi.do
+208,300200,국립무형유산원,공공데이터 포털,문화재청 국립무형유산원_기록영화(16mm)정보,https://www.data.go.kr/data/15028218/openapi.do
+209,300200,국립무형유산원,공공데이터 포털,문화재청 국립무형유산원_국가무형문화재 현황,https://www.data.go.kr/data/15028215/openapi.do
+210,300200,국립무형유산원,공공데이터 포털,문화재청 국립무형유산원_국립무형유산원 음원자료 정보,https://www.data.go.kr/data/15039779/openapi.do
+211,300200,국립무형유산원,공공데이터 포털,문화재청 국립무형유산원_전수교육관 정보,https://www.data.go.kr/data/15028217/openapi.do
+212,300200,국립무형유산원,공공데이터 포털,문화재청_국립무형유산원_무형문화재 공연정보,https://www.data.go.kr/data/15041861/openapi.do
+213,300200,국립무형유산원,공공데이터 포털,문화재청_국립무형유산원_무형유산 기록화 정보,https://www.data.go.kr/data/15041858/openapi.do
+214,300200,국립무형유산원,공공데이터 포털,문화재청_국립무형유산원_무형문화재 기증기탁 정보,https://www.data.go.kr/data/15041867/openapi.do
+215,300200,국립무형유산원,공공데이터 포털,문화재청_국립무형유산원_무형문화재 전시 정보,https://www.data.go.kr/data/15041863/openapi.do
+216,300200,국립무형유산원,공공데이터 포털,문화재청_국립무형유산원_전승자 구술채록 정보,https://www.data.go.kr/data/15041863/openapi.do
+217,300200,국립무형유산원,공공데이터 포털,문화재청_국립무형유산원_무형문화재 교육 정보,https://www.data.go.kr/data/15041866/openapi.do
+218,300300,국립무형유산원,전승지원 통합플랫폼,공방목록,https://support.nihc.go.kr/iptl/wshop/wshopL.do 
+219,300300,국립무형유산원,전승지원 통합플랫폼,전수교육관 현황,https://support.nihc.go.kr/iptl/tdc/tdcL.do?tab=tab1 
+220,300300,국립무형유산원,전승지원 통합플랫폼,전수교육관 목록,https://support.nihc.go.kr/iptl/tdc/tdcL.do?tab=tab3&subtab=subtab1 
+221,300300,국립무형유산원,전승지원 통합플랫폼,인증공예품 목록,https://support.nihc.go.kr/iptl/gyie/gyieL.do 
+222,300300,국립무형유산원,전승지원 통합플랫폼,대여공예품 목록,https://support.nihc.go.kr/iptl/apldrt/apldrtL.do 
+223,300300,국립무형유산원,전승지원 통합플랫폼,이수심사 신청 현황,https://support.nihc.go.kr/iptl/crt/index.do?searchYear=&searchValue=&page=1 
+224,300300,국립무형유산원,전승지원 통합플랫폼,공연,https://support.nihc.go.kr/iptl/event/eventL.do?menu=1
+225,300300,국립무형유산원,전승지원 통합플랫폼,전시,https://support.nihc.go.kr/iptl/event/eventL.do?menu=1
+226,300300,국립무형유산원,전승지원 통합플랫폼,교육체험,https://support.nihc.go.kr/iptl/event/eventL.do?menu=3
+227,300300,국립무형유산원,전승지원 통합플랫폼,공개행사,https://support.nihc.go.kr/iptl/event/eventL.do?menu=4
+228,300400,국립무형유산원,디지털 아카이브,기록영상/도서/사진,https://www.iha.go.kr/service/record/class_treasure_record_list.nihc?content_type=GT01000001 
+229,300400,국립무형유산원,디지털 아카이브,구술채록,https://www.iha.go.kr/service/record/class_treasure_record_list.nihc?content_type=GT01000002 
+230,300400,국립무형유산원,디지털 아카이브,16MM 기록영화,https://www.iha.go.kr/service/record/class_treasure_record_list.nihc?content_type=GT01000003 
+231,300400,국립무형유산원,디지털 아카이브,조사보고서,https://www.iha.go.kr/service/research/folder_research_list.nihc?content_type=GT03010000 
+232,300400,국립무형유산원,디지털 아카이브,학술보고서,https://www.iha.go.kr/service/research/folder_research_list.nihc?content_type=GT03020000 
+233,300400,국립무형유산원,디지털 아카이브,기타도서,https://www.iha.go.kr/service/research/folder_research_list.nihc?content_type=GT03030000 
+234,300400,국립무형유산원,디지털 아카이브,공연,https://www.iha.go.kr/service/performance/getFolderList.nihc?content_type=GT04000001 
+235,300400,국립무형유산원,디지털 아카이브,전시,https://www.iha.go.kr/service/performance/getFolderList.nihc?content_type=GT04000002 
+236,300400,국립무형유산원,디지털 아카이브,교육,https://www.iha.go.kr/service/performance/getFolderList.nihc?content_type=GT04000003 
+237,300400,국립무형유산원,디지털 아카이브,영상,https://www.iha.go.kr/service/media_type_list.nihc?item_type=video
+238,300400,국립무형유산원,디지털 아카이브,도서,https://www.iha.go.kr/service/media_type_list.nihc?item_type=text
+239,300400,국립무형유산원,디지털 아카이브,음원,https://www.iha.go.kr/service/media_type_list.nihc?item_type=audio
+240,300400,국립무형유산원,디지털 아카이브,사진,https://www.iha.go.kr/service/media_type_list.nihc?item_type=image
+241,300400,국립무형유산원,디지털 아카이브,다국어 영상물,https://www.iha.go.kr/service/multilang/getFolderView.nihc?contentid=13306
+242,300400,국립무형유산원,디지털 아카이브,스페셜 다큐멘터리,https://www.iha.go.kr/service/special/getSpecialView.nihc
+243,300400,국립무형유산원,디지털 아카이브,기증/기탁 목록,https://www.iha.go.kr/service/collection_list.nihc 
+244,300400,국립무형유산원,디지털 아카이브,기증/기탁 자료실,https://www.iha.go.kr/service/collection_data_list.nihc
+245,300400,국립무형유산원,디지털 아카이브,소장음원자료 시리즈,https://www.iha.go.kr/service/music/folder_music_list.nihc?content_type=GT05000001
+246,300400,국립무형유산원,디지털 아카이브,아리랑 아카이브,https://arirang.iha.go.kr/service/index.nihc
+247,300400,국립무형유산원,디지털 아카이브,무형유산 네이버TV뉴스,https://tv.naver.com/nihc
+248,300400,국립무형유산원,디지털 아카이브,무형유산 유튜브채널,https://www.youtube.com/channel/UChNB2KUeB9Kog2TPd3WOI1g
+249,300400,국립무형유산원,디지털 아카이브,무형유산 구글아트&컬처,https://artsandculture.google.com/partner/national-intangible-heritage-center
+250,400100,국립고궁박물관,대표 홈페이지,관람안내,https://www.gogung.go.kr/viewInfo.do
+251,400100,국립고궁박물관,대표 홈페이지,도서 검색,http://library.cha.go.kr/SubHomepage1/USMN000_15.asp
+252,400100,국립고궁박물관,대표 홈페이지,상설전시 안내,https://www.gogung.go.kr/perm.do?viewName=perm
+253,400100,국립고궁박물관,대표 홈페이지,조선의 국왕,https://www.gogung.go.kr/perm.do?viewName=perm_ex01
+254,400100,국립고궁박물관,대표 홈페이지,조선의 궁궐,https://www.gogung.go.kr/perm.do?viewName=perm_ex02
+255,400100,국립고궁박물관,대표 홈페이지,왕실의 생활,https://www.gogung.go.kr/perm.do?viewName=perm_ex03
+256,400100,국립고궁박물관,대표 홈페이지,대한제국,https://www.gogung.go.kr/perm.do?viewName=perm_ex05
+257,400100,국립고궁박물관,대표 홈페이지,어차,https://www.gogung.go.kr/perm.do?viewName=perm_ex07
+258,400100,국립고궁박물관,대표 홈페이지,궁중서화,https://www.gogung.go.kr/perm.do?viewName=perm_ex08
+259,400100,국립고궁박물관,대표 홈페이지,왕실의례,https://www.gogung.go.kr/perm.do?viewName=perm_ex09
+260,400100,국립고궁박물관,대표 홈페이지,과학문화,https://www.gogung.go.kr/perm.do?viewName=perm_ex10
+261,400100,국립고궁박물관,대표 홈페이지,특별전시,https://www.gogung.go.kr/specialNowView.do
+262,400100,국립고궁박물관,대표 홈페이지,온라인 전시관,https://www.gogung.go.kr/onlineExhibition.do
+263,400100,국립고궁박물관,대표 홈페이지,큐레이터 추천 왕실 유물,https://www.gogung.go.kr/curatorIssueCultureList.do
+264,400100,국립고궁박물관,대표 홈페이지,수어해설영상,https://www.gogung.go.kr/signLanguageVideoList.do?bizDiv=A&searchGubun=ALL&searchText=
+265,400100,국립고궁박물관,대표 홈페이지,고궁 배움터/연간교육일정,https://www.gogung.go.kr/annual.do
+266,400100,국립고궁박물관,대표 홈페이지,온라인 영상 강의,https://www.gogung.go.kr/dataVideoList.do
+267,400100,국립고궁박물관,대표 홈페이지,교육자료,https://www.gogung.go.kr/dataBookList.do
+268,400100,국립고궁박물관,대표 홈페이지,소장품 검색,https://www.gogung.go.kr/searchList.do
+269,400100,국립고궁박물관,대표 홈페이지,소장품 100선,https://www.gogung.go.kr/highlights.do
+270,400100,국립고궁박물관,대표 홈페이지,지정문화재,https://www.gogung.go.kr/appointList.do
+271,400100,국립고궁박물관,대표 홈페이지,조선왕조 기록문화유산,https://www.gogung.go.kr/joseonRecordsHeritageList.do
+272,400100,국립고궁박물관,대표 홈페이지,수장고 속 왕실유물 이야기,https://www.gogung.go.kr/issueCultureList.do
+273,400100,국립고궁박물관,대표 홈페이지,한석홍 기증사진,https://www.gogung.go.kr/hanseokhongList.do
+274,400100,국립고궁박물관,대표 홈페이지,왕실문화도감 일러스트,https://www.gogung.go.kr/royalCultureBookIllust.do
+275,400100,국립고궁박물관,대표 홈페이지,재질별 보존처리,https://www.gogung.go.kr/preservation.do
+276,400100,국립고궁박물관,대표 홈페이지,왕실유물 보존처리 이야기,https://www.gogung.go.kr/preserveSciList.do
+277,400100,국립고궁박물관,대표 홈페이지,행사,https://www.gogung.go.kr/eventInfoList.do
+278,400100,국립고궁박물관,대표 홈페이지,소장품도록,https://www.gogung.go.kr/publicationList.do?bizDiv=1
+279,400100,국립고궁박물관,대표 홈페이지,특별전시도록,https://www.gogung.go.kr/publicationList.do?bizDiv=8
+280,400100,국립고궁박물관,대표 홈페이지,상설전시도록,https://www.gogung.go.kr/publicationList.do?bizDiv=D
+281,400100,국립고궁박물관,대표 홈페이지,고문헌국역총서,https://www.gogung.go.kr/publicationList.do?bizDiv=2
+282,400100,국립고궁박물관,대표 홈페이지,왕실문화도감,https://www.gogung.go.kr/publicationList.do?bizDiv=6
+283,400100,국립고궁박물관,대표 홈페이지,왕실문화기획총서,https://www.gogung.go.kr/publicationList.do?bizDiv=7
+284,400100,국립고궁박물관,대표 홈페이지,왕실문화유산 보존연구,https://www.gogung.go.kr/publicationList.do?bizDiv=B
+285,400100,국립고궁박물관,대표 홈페이지,고궁문화,https://www.gogung.go.kr/publicationList.do?bizDiv=5
+286,400100,국립고궁박물관,대표 홈페이지,학습세미나 자료,https://www.gogung.go.kr/publicationList.do?bizDiv=C
+287,400100,국립고궁박물관,대표 홈페이지,연보,https://www.gogung.go.kr/publicationList.do?bizDiv=9
+288,400100,국립고궁박물관,대표 홈페이지,기타(조선 왕실과 대한제국 황실 어보),https://www.gogung.go.kr/publicationList.do?bizDiv=3
+289,400200,국립고궁박물관,공공데이터 포털,문화재청 국립고궁박물관_발간물 통합조회 정보,https://www.data.go.kr/data/15033365/openapi.do
+290,400200,국립고궁박물관,공공데이터 포털,문화재청 국립고궁박물관_발간물 상세조회 정보,https://www.data.go.kr/data/15033364/openapi.do
+291,400200,국립고궁박물관,공공데이터 포털,문화재청 국립고궁박물관_조선왕조기록문화유산 상세조회 정보,https://www.data.go.kr/data/15033362/openapi.do
+292,400200,국립고궁박물관,공공데이터 포털,문화재청 국립고궁박물관_발간물 목록조회 정보,https://www.data.go.kr/data/15033363/openapi.do
+293,400200,국립고궁박물관,공공데이터 포털,문화재청 국립고궁박물관_조선왕족기록문화유산 목록조회 정보,https://www.data.go.kr/data/15033361/openapi.do
+294,400200,국립고궁박물관,공공데이터 포털,문화재청 국립고궁박물관_수장고속왕실유물이야기 상세조회 정보,https://www.data.go.kr/data/15033360/openapi.do
+295,400200,국립고궁박물관,공공데이터 포털,문화재청 국립고궁박물관_수장고속왕실유물이야기 목록조회 정보,https://www.data.go.kr/data/15033359/openapi.do
+296,400200,국립고궁박물관,공공데이터 포털,문화재청 국립고궁박물관_왕실유물보존처리이야기 상세조회 정보,https://www.data.go.kr/data/15033358/openapi.do
+297,400200,국립고궁박물관,공공데이터 포털,문화재청 국립고궁박물관_왕실유물보존처리이야기 목록조회 정보,https://www.data.go.kr/data/15033357/openapi.do
+298,400200,국립고궁박물관,공공데이터 포털,문화재청 국립고궁박물관_자주묻는질문 상세조회 정보,https://www.data.go.kr/data/15033356/openapi.do
+299,400200,국립고궁박물관,공공데이터 포털,문화재청 국립고궁박물관_교육자료 목록조회 정보,https://www.data.go.kr/data/15033398/openapi.do
+300,400200,국립고궁박물관,공공데이터 포털,문화재청 국립고궁박물관_소장품 통합조회 정보,https://www.data.go.kr/data/15033366/openapi.do
+301,400200,국립고궁박물관,공공데이터 포털,문화재청 국립고궁박물관_자주묻는질문 목록조회 정보,https://www.data.go.kr/data/15033355/openapi.do
+302,400200,국립고궁박물관,공공데이터 포털,문화재청 국립고궁박물관_문화행사 상세조회 정보,https://www.data.go.kr/data/15033354/openapi.do
+303,400200,국립고궁박물관,공공데이터 포털,문화재청 국립고궁박물관_문화행사 목록조회 정보,https://www.data.go.kr/data/15033352/openapi.do
+304,400200,국립고궁박물관,공공데이터 포털,문화재청 국립고궁박물관_입찰 상세조회 정보,https://www.data.go.kr/data/15033351/openapi.do
+305,400200,국립고궁박물관,공공데이터 포털,문화재청 국립고궁박물관_입찰 목록조회 정보,https://www.data.go.kr/data/15033350/openapi.do
+306,400200,국립고궁박물관,공공데이터 포털,문화재청 국립고궁박물관_보도자료 상세조회 정보,https://www.data.go.kr/data/15033349/openapi.do
+307,400200,국립고궁박물관,공공데이터 포털,문화재청 국립고궁박물관_보도자료 목록조회 정보,https://www.data.go.kr/data/15033348/openapi.do
+308,400200,국립고궁박물관,공공데이터 포털,문화재청 국립고궁박물관_공지사항 상세조회 정보,https://www.data.go.kr/data/15033346/openapi.do
+309,400200,국립고궁박물관,공공데이터 포털,문화재청 국립고궁박물관_공지사항 목록조회 정보,https://www.data.go.kr/data/15033344/openapi.do
+310,400200,국립고궁박물관,공공데이터 포털,문화재청 국립고궁박물관_교육자료 상세조회 정보,https://www.data.go.kr/data/15033342/openapi.do
+311,500100,국립문화재연구소,대표 홈페이지,주요행사,https://www.nrich.go.kr/kor/majorList.do?menuIdx=286#link
+312,500100,국립문화재연구소,대표 홈페이지,문화재 窓,https://www.nrich.go.kr/kor/subscriptionDataUsrList.do?menuIdx=1668&gubun=C
+313,500100,국립문화재연구소,대표 홈페이지,NRICH,https://www.nrich.go.kr/kor/boardList.do?menuIdx=1666&bbscd=31
+314,500100,국립문화재연구소,대표 홈페이지,문화재 학술지 목록보기,https://www.nrich.go.kr/kor/subscriptionDataUsrList.do?menuIdx=1651&gubun=J
+315,500100,국립문화재연구소,대표 홈페이지,홍보책자,https://www.nrich.go.kr/kor/subscriptionDataUsrList.do?menuIdx=1107&gubun=H
+316,500100,국립문화재연구소,대표 홈페이지,연보,https://www.nrich.go.kr/kor/subscriptionDataUsrList.do?menuIdx=1108&gubun=B
+317,500100,국립문화재연구소,대표 홈페이지,문화재 기고,https://www.nrich.go.kr/kor/boardList.do?menuIdx=869&bbscd=42
+318,500100,국립문화재연구소,대표 홈페이지,문화재 연구 이야기,https://www.nrich.go.kr/kor/PhotonewsList.do?menuIdx=1646
+319,500100,국립문화재연구소,대표 홈페이지,기증자료,https://www.nrich.go.kr/kor/donadataDataUsrListView.do?menuIdx=1672&idx=1
+320,500100,국립문화재연구소,대표 홈페이지,부서별 연구분야 소개,https://www.nrich.go.kr/kor/page.do?menuIdx=328
+321,500100,국립문화재연구소,대표 홈페이지,연구성과,https://www.nrich.go.kr/kor/webzineList.do?menuIdx=1490
+322,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_보존과학연구 학술정보,https://www.data.go.kr/data/15015675/openapi.do
+323,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_북한지역 고구려 벽화고분,https://www.data.go.kr/data/15015671/openapi.do
+324,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_일제강점기(문헌목록),https://www.data.go.kr/data/15015669/openapi.do
+325,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_조선고적조사보고 정보,https://www.data.go.kr/data/15015668/openapi.do
+326,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_조선고적도보,https://www.data.go.kr/data/15015667/openapi.do
+327,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소 R&D 보고서,https://www.data.go.kr/data/15015666/openapi.do
+328,500200,국립문화재연구소,공공데이터 포털,"문화재청 국립문화재연구소_문화재 보존,복원 정보",https://www.data.go.kr/data/15015654/openapi.do
+329,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_문화재수리 현황,https://www.data.go.kr/data/15015647/openapi.do
+330,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_고문헌,https://www.data.go.kr/data/15015645/openapi.do
+331,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_한국전통문양 정보,https://www.data.go.kr/data/15015644/openapi.do
+332,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_문화유적총람,https://www.data.go.kr/data/15015638/openapi.do
+333,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_고고학사전,https://www.data.go.kr/data/15015637/openapi.do
+334,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_문화유산연구 원문정보,https://www.data.go.kr/data/15015635/openapi.do
+335,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_석조문화재 3D 컨텐츠 정보,https://www.data.go.kr/data/15015634/openapi.do
+336,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_괘불 현황,https://www.data.go.kr/data/15015632/openapi.do
+337,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_문화재 참고문헌,https://www.data.go.kr/data/15015629/openapi.do
+338,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_향교건축,https://www.data.go.kr/data/15015627/openapi.do
+339,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_개성의 문화유적,https://www.data.go.kr/data/15015672/openapi.do
+340,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_금석문 정보,https://www.data.go.kr/data/15015633/openapi.do
+341,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_전통재료 연구정보,https://www.data.go.kr/data/15028223/openapi.do
+342,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_문화재 분석자료 현황,https://www.data.go.kr/data/15028224/openapi.do
+343,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_중원문화재 유적 현황,https://www.data.go.kr/data/15028225/openapi.do
+344,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_지석묘 문화재 현황,https://www.data.go.kr/data/15028226/openapi.do
+345,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_자연문화재 현황,https://www.data.go.kr/data/15028222/openapi.do
+346,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_석조문화재보존관리 정보,https://www.data.go.kr/data/15015658/openapi.do
+347,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_발굴연표 정보,https://www.data.go.kr/data/15015636/openapi.do
+348,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_북한의 문화재 정보,https://www.data.go.kr/data/15015673/openapi.do
+349,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_영상자료관 정보,https://www.data.go.kr/data/15033560/openapi.do
+350,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_목간연구자료 정보,https://www.data.go.kr/data/15033482/openapi.do
+351,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_고고학저널 정보,https://www.data.go.kr/data/15033483/openapi.do
+352,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_한국의 범종 정보,https://www.data.go.kr/data/15033484/openapi.do
+353,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_연구성과자료집 정보,https://www.data.go.kr/data/15033486/openapi.do
+354,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_중원지역의 고대문화 학술조사연구자료,https://www.data.go.kr/data/15042721/openapi.do
+355,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_호남지역의 고대문화 학술조사연구자료,https://www.data.go.kr/data/15042720/openapi.do
+356,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_가야문화권 학술조사연구자료,https://www.data.go.kr/data/15042719/openapi.do
+357,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_백제문화권 학술조사연구자료,https://www.data.go.kr/data/15042718/openapi.do
+358,500200,국립문화재연구소,공공데이터 포털,문화재청 국립문화재연구소_신라문화권 학술조사연구자료,https://www.data.go.kr/data/15042716/openapi.do
+359,500300,국립문화재연구소,문화유산 연구지식포털,문화유산연구 원문정보(고고),https://portal.nrich.go.kr/kor/originalUsrList.do?menuIdx=565&bunya_cd=408
+360,500300,국립문화재연구소,문화유산 연구지식포털,발굴연표 정보(고고분야 발굴연표),https://portal.nrich.go.kr/kor/excavationChronologyUsrList.do?menuIdx=566
+361,500300,국립문화재연구소,문화유산 연구지식포털,고고학사전,https://portal.nrich.go.kr/kor/archeologyUsrList.do?menuIdx=792&type_gbn=3000
+362,500300,국립문화재연구소,문화유산 연구지식포털,고고학저널(고고분야),https://portal.nrich.go.kr/kor/journalList.do?menuIdx=800
+363,500300,국립문화재연구소,문화유산 연구지식포털,문화유적총람,https://portal.nrich.go.kr/kor/page.do?menuIdx=573
+364,500300,국립문화재연구소,문화유산 연구지식포털,문화유산연구 원문정보(미술분야),https://portal.nrich.go.kr/kor/originalUsrList.do?menuIdx=502&bunya_cd=409
+365,500300,국립문화재연구소,문화유산 연구지식포털,금석문 정보(한국의금석문 검색자료),https://portal.nrich.go.kr/kor/ksmUsrList.do?menuIdx=584
+366,500300,국립문화재연구소,문화유산 연구지식포털,한국전통문양 정보,https://portal.nrich.go.kr/kor/designUsrList.do?menuIdx=589
+367,500300,국립문화재연구소,문화유산 연구지식포털,고문헌,https://portal.nrich.go.kr/kor/literatureUsrList.do?menuIdx=582
+368,500300,국립문화재연구소,문화유산 연구지식포털,괘불현황(한국의 괘불목록),https://portal.nrich.go.kr/kor/buddhaPicUsrList.do?menuIdx=710
+369,500300,국립문화재연구소,문화유산 연구지식포털,불교회화 참고문헌 목록,https://portal.nrich.go.kr/kor/buddhaLiteratureUsrList.do?menuIdx=711
+370,500300,국립문화재연구소,문화유산 연구지식포털,한국의 범종(범종 목록),https://portal.nrich.go.kr/kor/buddhistList.do?menuIdx=805
+371,500300,국립문화재연구소,문화유산 연구지식포털,국외소재한국문화재,https://portal.nrich.go.kr/kor/overseasSearchList.do?menuIdx=840&webyn=Y
+372,500300,국립문화재연구소,문화유산 연구지식포털,조선시대 개인일기,https://portal.nrich.go.kr/kor/diaryList.do?menuIdx=1035
+373,500300,국립문화재연구소,문화유산 연구지식포털,문화유산연구 원문정보(건축),https://portal.nrich.go.kr/kor/originalUsrList.do?menuIdx=591&bunya_cd=410
+374,500300,국립문화재연구소,문화유산 연구지식포털,문화재수리(수리공사연표 및 루시공사별 자료),https://portal.nrich.go.kr/kor/originalUsrTotalList.do?menuIdx=1046
+375,500300,국립문화재연구소,문화유산 연구지식포털,경주석탑보수정비,https://portal.nrich.go.kr/kor/page.do?menuIdx=603
+376,500300,국립문화재연구소,문화유산 연구지식포털,미륵사,https://portal.nrich.go.kr/kor/page.do?menuIdx=1014
+377,500300,국립문화재연구소,문화유산 연구지식포털,황룡사,https://portal.nrich.go.kr/kor/originalUsrList.do?menuIdx=1050&report_cd=3077
+378,500300,국립문화재연구소,문화유산 연구지식포털,석조문화재 3D콘텐츠 정보,https://portal.nrich.go.kr/kor/threedUsrList.do?menuIdx=742&d_select2=1
+379,500300,국립문화재연구소,문화유산 연구지식포털,향교건축,https://portal.nrich.go.kr/kor/hyanggyoUsrList.do?menuIdx=722
+380,500300,국립문화재연구소,문화유산 연구지식포털,문화유산연구 원문정보(보존/복원),https://portal.nrich.go.kr/kor/originalUsrList.do?menuIdx=608&bunya_cd=411
+381,500300,국립문화재연구소,문화유산 연구지식포털,보존관리 매뉴얼,https://portal.nrich.go.kr/kor/originalUsrList.do?menuIdx=640&menuidx=660
+382,500300,국립문화재연구소,문화유산 연구지식포털,석조문화재 보존방안 목록,https://portal.nrich.go.kr/kor/stoneUserList.do?menuIdx=738
+383,500300,국립문화재연구소,문화유산 연구지식포털,보존과학연구 학술정보,https://portal.nrich.go.kr/kor/originalUsrList.do?menuIdx=681&report_cd=2828
+384,500300,국립문화재연구소,문화유산 연구지식포털,분석 DB,https://portal.nrich.go.kr/kor/assayList.do?menuIdx=962&category=1
+385,500300,국립문화재연구소,문화유산 연구지식포털,고문헌 전통재료,https://portal.nrich.go.kr/kor/materialList.do?menuIdx=871&kind=1
+386,500300,국립문화재연구소,문화유산 연구지식포털,문화유산연구 원문정보(자연문화재),https://portal.nrich.go.kr/kor/originalUsrList.do?menuIdx=450&bunya_cd=413
+387,500300,국립문화재연구소,문화유산 연구지식포털,자연문화재 현황(한국의 지질다양성),https://portal.nrich.go.kr/kor/originalUsrList.do?menuIdx=873&report_cd=3013
+388,500300,국립문화재연구소,문화유산 연구지식포털,공룡발자국 3D 기록 보고서,https://portal.nrich.go.kr/kor/originalUsrList.do?menuIdx=874&report_cd=3052
+389,500300,국립문화재연구소,문화유산 연구지식포털,문화유산연구 원문정보(안전방재),https://portal.nrich.go.kr/kor/originalUsrList.do?menuIdx=854&bunya_cd=3007
+390,500300,국립문화재연구소,문화유산 연구지식포털,안전관리 매뉴얼,https://portal.nrich.go.kr/kor/originalUsrList.do?menuIdx=855&bunya_cd=3010
+391,500300,국립문화재연구소,문화유산 연구지식포털,문화유산연구 원문정보(북한의 문화재),https://portal.nrich.go.kr/kor/originalUsrList.do?menuIdx=66&bunya_cd=412
+392,500300,국립문화재연구소,문화유산 연구지식포털,북한 문화재(조선유적유물도감),https://portal.nrich.go.kr/kor/northList.do?menuIdx=64
+393,500300,국립문화재연구소,문화유산 연구지식포털,북한 문화재(유적특별전시관),https://portal.nrich.go.kr/kor/koguryoList.do?menuIdx=668
+394,500300,국립문화재연구소,문화유산 연구지식포털,북한 고고학 정기간행물,https://portal.nrich.go.kr/kor/bibliographyUsrList.do?menuIdx=824
+395,500300,국립문화재연구소,문화유산 연구지식포털,북한 문화재 지도서비스,https://portal.nrich.go.kr/kor/page.do?menuIdx=622
+396,500300,국립문화재연구소,문화유산 연구지식포털,문화유산연구 원문정보(일제강점기),https://portal.nrich.go.kr/kor/originalUsrList.do?menuIdx=831&bunya_cd=3005
+397,500300,국립문화재연구소,문화유산 연구지식포털,조선고적도보(일제강점기),https://portal.nrich.go.kr/kor/historyinfoList.do?menuIdx=616
+398,500300,국립문화재연구소,문화유산 연구지식포털,조선고적 조사보고 정보(일제강점기),https://portal.nrich.go.kr/kor/historyreportList.do?menuIdx=617
+399,500300,국립문화재연구소,문화유산 연구지식포털,조선총독부박물관 문서,https://www.museum.go.kr/modern-history/main.do
+400,500300,국립문화재연구소,문화유산 연구지식포털,일제강점기(문헌목록),https://portal.nrich.go.kr/kor/reportlistList.do?menuIdx=618
+401,500300,국립문화재연구소,문화유산 연구지식포털,문화유산 R&D 보고서,https://portal.nrich.go.kr/kor/originalUsrList.do?menuIdx=645&report_cd=388
+402,500300,국립문화재연구소,문화유산 연구지식포털,학술연구발표논집,https://portal.nrich.go.kr/kor/originalUsrList.do?menuIdx=1075&report_cd=2837&bunya_cd=3113
+403,500300,국립문화재연구소,문화유산 연구지식포털,한민족고대문화네트워크,https://portal.nrich.go.kr/kor/originalUsrList.do?menuIdx=916&report_cd=3055
+404,500300,국립문화재연구소,문화유산 연구지식포털,영상자료관,https://portal.nrich.go.kr/kor/multistageUsrList.do?menuIdx=1047&total=Y
+405,500300,국립문화재연구소,문화유산 연구지식포털,문화유산연구 원문정보(경주 문화재),https://portal.nrich.go.kr/kor/originalUsrList.do?menuIdx=863&bunya_cd=3014
+406,500300,국립문화재연구소,문화유산 연구지식포털,경주남산유적,https://portal.nrich.go.kr/kor/ksnmUsrList.do?menuIdx=813
+407,500300,국립문화재연구소,문화유산 연구지식포털,경주의 신라고분,https://portal.nrich.go.kr/kor/originalUsrList.do?menuIdx=875&report_cd=3059
+408,500300,국립문화재연구소,문화유산 연구지식포털,경주월성유적,https://portal.nrich.go.kr/kor/originalUsrList.do?menuIdx=1038&bunya_cd=3014&report_cd=3068
+409,500300,국립문화재연구소,문화유산 연구지식포털,문화유산연구 원문정보(부여 문화재),https://portal.nrich.go.kr/kor/originalUsrList.do?menuIdx=864&bunya_cd=3015
+410,500300,국립문화재연구소,문화유산 연구지식포털,백제의 문화유적,https://portal.nrich.go.kr/kor/ruinsList.do?menuIdx=933&gubun=1
+411,500300,국립문화재연구소,문화유산 연구지식포털,부여 왕흥사지,https://portal.nrich.go.kr/kor/wangheungsaUsrList.do?menuIdx=1044
+412,500300,국립문화재연구소,문화유산 연구지식포털,문화유산연구 원문정보(가야 문화재),https://portal.nrich.go.kr/kor/originalUsrList.do?menuIdx=865&bunya_cd=3016
+413,500300,국립문화재연구소,문화유산 연구지식포털,한국의 목간,https://portal.nrich.go.kr/kor/mokganList.do?menuIdx=891
+414,500300,국립문화재연구소,문화유산 연구지식포털,문화유산연구 원문정보(나주 문화재),https://portal.nrich.go.kr/kor/originalUsrList.do?menuIdx=866&bunya_cd=3017
+415,500300,국립문화재연구소,문화유산 연구지식포털,영산강유역 지석묘,https://portal.nrich.go.kr/kor/dolmenList.do?menuIdx=878&area=1
+416,500300,국립문화재연구소,문화유산 연구지식포털,영산강유역 대형옹관,https://portal.nrich.go.kr/kor/coffinList.do?menuIdx=1060
+417,500300,국립문화재연구소,문화유산 연구지식포털,문화유산연구 원문정보(중원 문화재),https://portal.nrich.go.kr/kor/originalUsrList.do?menuIdx=867&bunya_cd=3018
+418,500300,국립문화재연구소,문화유산 연구지식포털,한국의 제철유적,https://portal.nrich.go.kr/kor/remainsList.do?menuIdx=952&gubun=1
+419,500300,국립문화재연구소,문화유산 연구지식포털,문화유산연구 원문정보(강화 문화재),https://portal.nrich.go.kr/kor/originalUsrList.do?menuIdx=868&bunya_cd=3019
+420,500300,국립문화재연구소,문화유산 연구지식포털,문화유산연구 원문정보(완주 문화재),https://portal.nrich.go.kr/kor/originalUsrList.do?menuIdx=1072&bunya_cd=3092
+421,500400,국립문화재연구소,경주문화재연구소,경주문화재연구소,https://www.nrich.go.kr/gyeongju/
+422,500410,국립문화재연구소,부여문화재연구소,부여문화재연구소,https://www.nrich.go.kr/buyeo/
+423,500420,국립문화재연구소,가야문화재연구소,가야문화재연구소,https://www.nrich.go.kr/gaya/
+424,500430,국립문화재연구소,나주문화재연구소,나주문화재연구소,https://www.nrich.go.kr/naju/
+425,500440,국립문화재연구소,중원문화재연구소,중원문화재연구소,https://www.nrich.go.kr/jungwon/
+426,500450,국립문화재연구소,강화문화재연구소,강화문화재연구소,https://www.nrich.go.kr/ganghwa/
+427,500460,국립문화재연구소,완주문화재연구소,완주문화재연구소,https://www.nrich.go.kr/wanju/
+428,500500,국립문화재연구소,문화재보존과학센터,문화재 보존처리 소개,https://www.nrich.go.kr/conservation/page.do?menuIdx=681 
+429,500500,국립문화재연구소,문화재보존과학센터,문화재 보존처리 사례,https://www.nrich.go.kr/conservation/page.do?menuIdx=664
+430,500500,국립문화재연구소,문화재보존과학센터,문화재 보존 응급수습,https://www.nrich.go.kr/conservation/page.do?menuIdx=665
+431,500500,국립문화재연구소,문화재보존과학센터,문화재 영상 기술,https://www.nrich.go.kr/conservation/page.do?menuIdx=688
+432,500500,국립문화재연구소,문화재보존과학센터,문화재보존과학센터 공지사항,https://www.nrich.go.kr/conservation/boardList.do?menuIdx=671&bbscd=32
+433,500500,국립문화재연구소,문화재보존과학센터,문화재보존과학센터 보도자료,https://www.nrich.go.kr/conservation/boardList.do?menuIdx=1506&bbscd=33
+434,500500,국립문화재연구소,문화재보존과학센터,문화재보존과학센터 주요행사,https://www.nrich.go.kr/conservation/majorList.do?menuIdx=1507&e_dept=44
+435,500500,국립문화재연구소,문화재보존과학센터,견학 안내,https://www.nrich.go.kr/conservation/page.do?menuIdx=690
+436,500500,국립문화재연구소,문화재보존과학센터,문화재 관련 학술자료,https://www.nrich.go.kr/conservation/academicUsrList.do?menuIdx=667
+437,500500,국립문화재연구소,문화재보존과학센터,관련 사이트,https://www.nrich.go.kr/conservation/page.do?menuIdx=670
+438,500500,국립문화재연구소,문화재보존과학센터,주요 연구 성과,https://www.nrich.go.kr/conservation/webzineList.do?menuIdx=1504&org_dept=44#link
+439,500500,국립문화재연구소,문화재보존과학센터,학술자료,https://www.nrich.go.kr/conservation/academicUsrList.do?menuIdx=667
+440,600100,국립해양문화재연구소,대표 홈페이지,한국 수중고고학의 역사,https://www.seamuse.go.kr/research/underwater_archeology
+441,600100,국립해양문화재연구소,대표 홈페이지,수중문화재 발굴,https://seamuse.go.kr/research/excavation
+442,600100,국립해양문화재연구소,대표 홈페이지,탐사,https://seamuse.go.kr/research/explore_academic
+443,600100,국립해양문화재연구소,대표 홈페이지,수중조사 선박?장비,https://seamuse.go.kr/research/investigate_ship
+444,600100,국립해양문화재연구소,대표 홈페이지,수중문화재 보존연구,https://www.seamuse.go.kr/research/underwater_science
+445,600100,국립해양문화재연구소,대표 홈페이지,전통선박 연구,https://www.seamuse.go.kr/research/ship_using
+446,600100,국립해양문화재연구소,대표 홈페이지,해양역사문화 연구,https://www.seamuse.go.kr/research/island_research
+447,600100,국립해양문화재연구소,대표 홈페이지,섬문화 조사 연구,https://www.seamuse.go.kr/research/island_research
+448,600100,국립해양문화재연구소,대표 홈페이지,수군진 조사 연구,https://www.seamuse.go.kr/research/sugunjin_research
+449,600100,국립해양문화재연구소,대표 홈페이지,조운문화유적 조사 연구,https://www.seamuse.go.kr/research/jounchang_research
+450,600100,국립해양문화재연구소,대표 홈페이지,해양실크로드 조사 연구,https://www.seamuse.go.kr/research/silkload_research
+451,600100,국립해양문화재연구소,대표 홈페이지,학술지 발간,https://www.seamuse.go.kr/research/publication_guide
+452,600100,국립해양문화재연구소,대표 홈페이지,목포해양유물전시관,https://www.seamuse.go.kr/exhibition/mokpo_exhibition
+453,600100,국립해양문화재연구소,대표 홈페이지,태안해양유물전시관,https://www.seamuse.go.kr/exhibition/taean_exhibition
+454,600100,국립해양문화재연구소,대표 홈페이지,일정,https://www.seamuse.go.kr/event/event_calendar
+455,600100,국립해양문화재연구소,대표 홈페이지,소장품,https://www.seamuse.go.kr/resources/underwater/culturel
+456,600100,국립해양문화재연구소,대표 홈페이지,출판물,https://www.seamuse.go.kr/resources/academicreport/list/1
+457,600100,국립해양문화재연구소,대표 홈페이지,해양문화유산 디자인,https://www.seamuse.go.kr/resources/marineDesign
+458,600100,국립해양문화재연구소,대표 홈페이지,조사 연구 영상,https://www.seamuse.go.kr/research/video/list/1
+459,600100,국립해양문화재연구소,대표 홈페이지,우리배 용어사전,http://dic.seamuse.go.kr/
+460,600100,국립해양문화재연구소,대표 홈페이지,행정정보 공개,https://www.seamuse.go.kr/disclosure/business_plan/list/1
+461,700100,궁능유적본부,대표 홈페이지,궁능 관련 간행물,http://royal.cha.go.kr/public/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000312&ctgoryId=CTGORY_0000000000144&pageNo=5700200&siteCd=RPTC
+462,700100,궁능유적본부,대표 홈페이지,궁능유적본부 공지사항,http://royal.cha.go.kr/public/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000307&pageNo=4100000&siteCd=RPTC
+463,700100,궁능유적본부,대표 홈페이지,보도자료,http://royal.cha.go.kr/public/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000309&pageNo=4200000&siteCd=RPTC
+464,700100,궁능유적본부,대표 홈페이지,관람안내,http://royal.cha.go.kr/public/html/HtmlPage.do?pg=/rptc/03/view_time.jsp&pageNo=3100000&siteCd=RPTC
+465,700100,궁능유적본부,대표 홈페이지,행사달력,http://royal.cha.go.kr/public/EVENT/RptcEventCalendar.do?pageNo=2100000&siteCd=RPTC
+466,700100,궁능유적본부,대표 홈페이지,궁능유적,http://royal.cha.go.kr/public/html/HtmlPage.do?pg=/rptc/01/royalpalace.jsp&pageNo=1110000&siteCd=RPTC
+467,700200,궁능유적본부,공공데이터 포털,문화재청_궁능유적본부_4대궁 및 종묘 한복착용 입장객 현황,https://www.data.go.kr/data/15040884/fileData.do
+468,700200,궁능유적본부,공공데이터 포털,문화재청 궁능유적본부_조선왕릉 관람객 수 현황,https://www.data.go.kr/data/15064582/fileData.do
+469,700200,궁능유적본부,공공데이터 포털,문화재청 궁능유적본부_4대궁 관람객 수 현황,https://www.data.go.kr/data/15040885/fileData.do
+470,700300,궁능유적본부,세종대왕 유적관리소,영릉 이야기,https://sejong.cha.go.kr/agapp/public/html/HtmlPage.do?pg=/sejong/01/royal.jsp&pageNo=79010000&siteCd=SEJONG
+471,700300,궁능유적본부,세종대왕 유적관리소,미리 둘러보기,https://sejong.cha.go.kr/agapp/public/html/HtmlPage.do?pg=/sejong/01/survey.jsp&pageNo=79030000&siteCd=SEJONG
+472,700300,궁능유적본부,세종대왕 유적관리소,영릉의 사계,https://sejong.cha.go.kr/agapp/public/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000223&pageNo=79040000&siteCd=SEJONG
+473,700300,궁능유적본부,세종대왕 유적관리소,영릉의 발자취,https://sejong.cha.go.kr/agapp/public/html/HtmlPage.do?pg=/sejong/01/royal_trace.jsp&pageNo=79050000&siteCd=SEJONG
+474,700300,궁능유적본부,세종대왕 유적관리소,세종대왕역사문화관 안내,https://sejong.cha.go.kr/agapp/public/html/HtmlPage.do?pg=/sejong/02/introduce.jsp&pageNo=78010000&siteCd=SEJONG
+475,700300,궁능유적본부,세종대왕 유적관리소,기획전시,https://sejong.cha.go.kr/agapp/public/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000000316&nttId=31251&bbsTyCode=BBST01&bbsAttrbCode=BBSA03&authFlag=&pageIndex=1&pageNo=78040200&ctgoryId=CTGORY_0000000000146&siteCd=SEJONG
+476,700300,궁능유적본부,세종대왕 유적관리소,관람정보,https://sejong.cha.go.kr/agapp/public/html/HtmlPage.do?pg=/sejong/03/information.jsp&pageNo=77010100&siteCd=SEJONG
+477,700400,궁능유적본부,조선왕릉,조선왕릉,http://royaltombs.cha.go.kr/html/HtmlPage.do?pg=/new/html/portal_01_01_01.jsp&mn=RT_01_01
+478,700400,궁능유적본부,조선왕릉,탐방마당,http://royaltombs.cha.go.kr/html/HtmlPage.do?pg=/new/html/portal_02_01_01.jsp&mn=RT_02_01_01
+479,700400,궁능유적본부,조선왕릉,제향일정,http://royaltombs.cha.go.kr/html/HtmlPage.do?pg=/new/html/portal_03_03.jsp&mn=RT_03_03
+480,700400,궁능유적본부,조선왕릉,학술마당,http://royaltombs.cha.go.kr/html/HtmlPage.do?pg=/new/html/portal_05_01_01.jsp&mn=RT_05_01_01
+481,700500,궁능유적본부,경복궁 관리소,관람안내,https://www.royalpalace.go.kr/content/guide/guide01_tab01.asp
+482,700500,궁능유적본부,경복궁 관리소,자료마당,https://www.royalpalace.go.kr/content/data/data_01.asp
+483,700500,궁능유적본부,경복궁 관리소,경복궁 들여다보기,https://www.royalpalace.go.kr/content/data/data_03.asp
+484,700500,궁능유적본부,경복궁 관리소,수어해설영상,https://www.royalpalace.go.kr/content/data/data_06.asp
+485,700500,궁능유적본부,경복궁 관리소,수문장 교대의식,https://www.royalpalace.go.kr/content/preview/preview04_5a.asp
+486,700500,궁능유적본부,경복궁 관리소,미리보는 경복궁,https://www.royalpalace.go.kr/content/preview/preview03.asp
+487,700600,궁능유적본부,창덕궁 관리소,세계유산창덕궁 소개,http://www.cdg.go.kr/cms_for_cdg/show.jsp?show_no=7&check_no=1&c_relation=2&c_relation2=64
+488,700600,궁능유적본부,창덕궁 관리소,관람안내,http://www.cdg.go.kr/cms_for_cdg/show.jsp?show_no=89&check_no=15&c_relation=89&c_relation2=151
+489,700600,궁능유적본부,창덕궁 관리소,궁궐소개,http://www.cdg.go.kr/cms_for_cdg/process/faq/list.jsp?show_no=62&check_no=5&c_relation=53&c_relation2=115
+490,700600,궁능유적본부,창덕궁 관리소,발간자료,https://www.cha.go.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_1021&searchUseYn=Y&mn=NS_03_08_01&pageUnit=10&viewType=&schDirect=&searchCnd=title&searchWrd=%EC%B0%BD%EB%8D%95%EA%B6%81&ctgryLrcls=&ntcStartDt=&ntcEndDt=&searchYear=
+491,700600,궁능유적본부,창덕궁 관리소,사진자료실,http://www.cdg.go.kr/cms_for_cdg/process/photo/list.jsp?show_no=28&check_no=5&c_relation=55&c_relation2=117
+492,700700,궁능유적본부,덕수궁 관리소,덕수궁이야기,http://www.deoksugung.go.kr/c/introduction/1
+493,700700,궁능유적본부,덕수궁 관리소,숭례문이야기,http://www.deoksugung.go.kr/c/sungnyemun/1
+494,700700,궁능유적본부,덕수궁 관리소,관람안내,http://www.deoksugung.go.kr/c/visitor/1
+495,700700,궁능유적본부,덕수궁 관리소,재현행사,http://www.deoksugung.go.kr/c/event/1
+496,700700,궁능유적본부,덕수궁 관리소,공연,http://www.deoksugung.go.kr/c/event/4
+497,700700,궁능유적본부,덕수궁 관리소,교육/강연,http://www.deoksugung.go.kr/c/event/8
+498,700700,궁능유적본부,덕수궁 관리소,기타,http://www.deoksugung.go.kr/c/event/11
+499,700800,궁능유적본부,창경궁 관리소,미리보는 창경궁,http://cgg.cha.go.kr/agapp/public/html/HtmlPage.do?pg=/cgg/01/introduce_01.jsp&pageNo=79030000&siteCd=CGG
+500,700800,궁능유적본부,창경궁 관리소,관람안내,http://cgg.cha.go.kr/agapp/public/html/HtmlPage.do?pg=/cgg/02/information_01.jsp&pageNo=78010100&siteCd=CGG
+501,700800,궁능유적본부,창경궁 관리소,발간자료,http://cgg.cha.go.kr/agapp/public/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000185&pageNo=76030000&siteCd=CGG
+502,700900,궁능유적본부,종묘 관리소,관람안내,http://jm.cha.go.kr/agapp/main/index.do?siteCd=JM
+503,700900,궁능유적본부,종묘 관리소,종묘이야기,http://jm.cha.go.kr/agapp/public/html/HtmlPage.do?pg=/jm/03/introduce_01.jsp&pageNo=77010000&siteCd=JM
+504,700900,궁능유적본부,종묘 관리소,종묘의 사계,http://jm.cha.go.kr/agapp/public/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000201&pageNo=77040000&siteCd=JM
+505,700900,궁능유적본부,종묘 관리소,종묘제례 자료실,http://jm.cha.go.kr/agapp/public/html/HtmlPage.do?pg=/jm/04/event_01.jsp&pageNo=76000000&siteCd=JM
+506,800200,한국문화재재단,공공데이터 포털,한국문화재재단_문화유산교육 관련 민간자격증 발급 현황,https://www.data.go.kr/data/15043309/fileData.do
+507,800200,한국문화재재단,공공데이터 포털,한국문화재재단_월별공연장이용객_현황,https://www.data.go.kr/data/15043319/fileData.do
+508,800200,한국문화재재단,공공데이터 포털,한국문화재재단 공연장 현황,https://www.data.go.kr/data/15010542/fileData.do

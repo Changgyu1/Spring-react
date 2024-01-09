@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html xmlns:th="http://www.thymeleaf.org">
+<html xmlnx:th="http://www.thymeleaf.org"
+xmlns:sec="http://www.thymeleaf.org/extras/spring-security">
 <head>
 <meta charset="UTF-8">
 <title>리소스 밑에 sql 폴더 만들기</title>
@@ -7,5 +8,23 @@
 <body>
 	<a href="/members/register">회원가입하기</a>
 	<!--  <a th:href="@{oauth2/authorization/naver">네이버로 회원가입</a>  -->
+	
+	<div>
+		<a th:href="@{/product/List}">상품목록보기</a>
+		<a sec:authorize="isAnonymous()" th:href="@{/user/signup}">회원가입</a>
+		<a sec:authorize="isAnonymous()" th:href="@{/user/login}">로그인</a>
+		
+		<a sec:authorize="isAuthenticated()" th:href="@{/user/logout}">로그아웃</a>
+		<div th:if="${#authorization.expression('isAuthenticated()')}">
+			<p th:text="'안녕하세요'"></p>
+		</div>
+		
+		<a sec:authorize="hasRole('ROLE_ADMIN')">test</a>
+		
+	</div>
+	
+		<div id="map" style="width: 500px; height: 400px;"></div>
+		
+		<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=00000000"></script>
 </body>
 </html>

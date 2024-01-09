@@ -16,4 +16,8 @@ public interface MembersMapper {
 	
 	// 상세조회
 	Member getMemberById(Long id);
+
+	Member loginMember(String username);
+	
+	
 }
